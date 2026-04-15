@@ -7,3 +7,4 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ### Daredevil
 <img width="540" height="540" alt="daredevil_good" src="https://github.com/user-attachments/assets/f33e7e5c-1b26-4846-9f39-f4d5c5731abd" />
+<img width="540" height="540" alt="daredevil_evil" src="https://github.com/user-attachments/assets/34905526-babd-415b-9e45-b0ca6d592aae" />
