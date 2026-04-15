@@ -1,6 +1,8 @@
 # BloodontheClocktowerHomebrew
 ## Townsfolk
 ### Provost
+<img width="540" height="540" alt="Dardevil_v3_no smoothblend" src="https://github.com/user-attachments/assets/41f35294-64fd-4a84-a25b-6a553522d36f" />
+
 <img width="400" height="400" alt="provost_good_KB" src="https://github.com/user-attachments/assets/77c1a24d-f3e3-41bf-8b92-a37bfbe2541f" />
 
 ### Daredevil
