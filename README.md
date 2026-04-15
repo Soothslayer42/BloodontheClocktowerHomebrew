@@ -3,7 +3,8 @@ icon generator settings: border size 7 pixels, output size 540
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
 ### Provost
-<img width="400" height="400" alt="provost_good_KB" src="https://github.com/user-attachments/assets/77c1a24d-f3e3-41bf-8b92-a37bfbe2541f" />
+<img width="540" height="540" alt="provost_good" src="https://github.com/user-attachments/assets/050acc3f-3122-4816-9522-7c9646e41ea3" />
+<img width="540" height="540" alt="provost_evil" src="https://github.com/user-attachments/assets/37553b40-26a7-47cf-bcc5-8041d970f936" />
 
 ### Daredevil
 <img width="540" height="540" alt="daredevil_good" src="https://github.com/user-attachments/assets/f33e7e5c-1b26-4846-9f39-f4d5c5731abd" />
