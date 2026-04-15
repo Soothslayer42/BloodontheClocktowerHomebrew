@@ -7,3 +7,5 @@
 
 ### Daredevil
 <img width="540" height="540" alt="Daredevil_good" src="https://github.com/user-attachments/assets/b92c1975-6bd9-4c16-8184-bddcea06bcbc" />
+
+<img width="540" height="540" alt="daredevil_good_GenThenBloodstar_NoCropSize100" src="https://github.com/user-attachments/assets/b857e1cd-2e98-48f3-8cb1-277ec499d094" />
