@@ -14,3 +14,5 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="polygraphist_good" src="https://github.com/user-attachments/assets/021a3195-02e3-4ef4-bebf-28fecc627608" />
 <img width="540" height="540" alt="polygraphist_evil" src="https://github.com/user-attachments/assets/7f75dc3b-bbc3-49e4-b5e0-18a3aed37a58" />
 
+### Samurai
+
