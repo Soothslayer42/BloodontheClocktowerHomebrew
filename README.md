@@ -18,3 +18,40 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="samurai_good" src="https://github.com/user-attachments/assets/b4f42eb5-f55e-4140-be52-2d42426b94c8" />
 <img width="540" height="540" alt="samurai_evil" src="https://github.com/user-attachments/assets/24ceac5b-ebad-4695-b2d9-577a6aa19197" />
 
+### Seneschal
+
+### Enchantress
+
+### Chiffonier
+
+### Perruquier
+
+### Safecracker
+
+### Solicitor
+
+### Attorney
+
+### Demographer
+
+### Ewerer
+
+### Wharfinger
+
+### Cyclist
+
+### Prohibitionist
+
+### Executrix
+
+### Stickybeak
+
+### Wainwright
+
+### Psephologist
+
+### Chiromancer
+
+### Embalmer
+
+### Prestidigitator
