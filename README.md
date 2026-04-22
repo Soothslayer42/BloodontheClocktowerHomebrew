@@ -19,6 +19,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="samurai_evil" src="https://github.com/user-attachments/assets/24ceac5b-ebad-4695-b2d9-577a6aa19197" />
 
 ### Seneschal
+<img width="540" height="540" alt="tautologist_evil_RS" src="https://github.com/user-attachments/assets/af1901a5-4a76-4f01-9a3b-7592e967d314" />
+<img width="540" height="540" alt="tautologist_good_RS" src="https://github.com/user-attachments/assets/c5277813-ec35-4cb5-a02d-b2f61d203a4d" />
 
 
 ### Enchantress
