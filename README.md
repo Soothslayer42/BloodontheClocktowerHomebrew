@@ -19,44 +19,80 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="samurai_evil" src="https://github.com/user-attachments/assets/24ceac5b-ebad-4695-b2d9-577a6aa19197" />
 
 ### Seneschal
-
-
+<img width="540" height="540" alt="seneschal_good" src="https://github.com/user-attachments/assets/42519546-46f2-41e3-b627-30527eee5d89" />
+<img width="540" height="540" alt="seneschal_evil" src="https://github.com/user-attachments/assets/b3aaf240-0b68-4f43-9b08-3750fae4f472" />
 
 ### Enchantress
+<img width="540" height="540" alt="enchantress_good" src="https://github.com/user-attachments/assets/3571c692-0fa5-4c79-bc33-2d841d4ef53b" />
+<img width="540" height="540" alt="enchantress_evil" src="https://github.com/user-attachments/assets/59762c2c-ec67-4172-a4a0-adff5837c45e" />
 
 ### Chiffonier
+<img width="540" height="540" alt="chiffonier_good" src="https://github.com/user-attachments/assets/aa6e6b6f-e9bd-47f2-9d03-165f29ea49a9" />
+<img width="540" height="540" alt="chiffonier_evil" src="https://github.com/user-attachments/assets/47453dab-2b6c-4bd7-8c35-186115a179f8" />
 
 ### Perruquier
+<img width="540" height="540" alt="perruquier_good" src="https://github.com/user-attachments/assets/0555a95b-a27b-4903-9dbc-18979b5b54d2" />
+<img width="540" height="540" alt="perruquier_evil" src="https://github.com/user-attachments/assets/36f6ee9a-3e7b-4c25-a1e2-fb08edcd590c" />
 
 ### Safecracker
+<img width="540" height="540" alt="safecracker_good" src="https://github.com/user-attachments/assets/b0585858-0cf8-4822-ae91-362c1d735898" />
+<img width="540" height="540" alt="safecracker_evil" src="https://github.com/user-attachments/assets/29c55dfb-20cd-4e9c-b98e-877f4e3553ba" />
 
 ### Solicitor
+<img width="540" height="540" alt="solicitor_good" src="https://github.com/user-attachments/assets/e3f1b0c9-f3a6-4359-b02c-1c624fb702bc" />
+<img width="540" height="540" alt="solicitor_evil" src="https://github.com/user-attachments/assets/bb849422-68c1-48eb-8390-3ba9262f90a1" />
 
 ### Attorney
+<img width="540" height="540" alt="attorney_good" src="https://github.com/user-attachments/assets/fd028575-11bc-4678-a8f6-204ff3baa8dd" />
+<img width="540" height="540" alt="attorney_evil" src="https://github.com/user-attachments/assets/3b55130e-3737-4fbc-8c56-c75e1f7a6da8" />
 
 ### Demographer
+<img width="540" height="540" alt="demographer_good" src="https://github.com/user-attachments/assets/d2648e83-dfc2-4ef0-be22-6903f0d277b6" />
+<img width="540" height="540" alt="demographer_evil" src="https://github.com/user-attachments/assets/8cd0cc5d-3515-4a10-9ad3-ec4fa38068c4" />
 
 ### Ewerer
+<img width="540" height="540" alt="ewerer_good" src="https://github.com/user-attachments/assets/0f307ac4-07df-4b6e-8f64-b50d47d550b1" />
+<img width="540" height="540" alt="ewerer_evil" src="https://github.com/user-attachments/assets/6a272d6f-ff81-4748-9e51-1b0f3b27cb8f" />
 
 ### Wharfinger
+<img width="540" height="540" alt="wharfinger_good" src="https://github.com/user-attachments/assets/1bdd899f-15d2-427e-9eff-ac5e1067b750" />
+<img width="540" height="540" alt="wharfinger_evil" src="https://github.com/user-attachments/assets/a5c75d71-7e0b-4dec-b007-84b984078360" />
 
 ### Cyclist
+<img width="540" height="540" alt="cyclist_good" src="https://github.com/user-attachments/assets/84530997-7ef5-4ddb-a1de-94b340a744a1" />
+<img width="540" height="540" alt="cyclist_evil" src="https://github.com/user-attachments/assets/d4429a7d-cc44-43e8-9389-3f9928059cd8" />
 
 ### Prohibitionist
+<img width="540" height="540" alt="prohibitionist_good" src="https://github.com/user-attachments/assets/45ec2b7e-13a1-4095-805f-c8674e86dc54" />
+<img width="540" height="540" alt="prohibitionist_evil" src="https://github.com/user-attachments/assets/e06e8987-7815-4d31-8d14-18d70d4e0359" />
 
 ### Executrix
+<img width="540" height="540" alt="executrix_good" src="https://github.com/user-attachments/assets/f95e02a8-4a34-4b55-ab6d-a8125a540b78" />
+<img width="540" height="540" alt="executrix_evil" src="https://github.com/user-attachments/assets/171bb74d-ef41-4c33-994c-9df55f8376b4" />
 
 ### Stickybeak
+<img width="540" height="540" alt="stickybeak_good" src="https://github.com/user-attachments/assets/14381c67-4cac-4c20-b201-efb03bb6c6f0" />
+<img width="540" height="540" alt="stickybeak_evil" src="https://github.com/user-attachments/assets/e5381cba-000b-4072-b34a-522a1b45f9f2" />
 
 ### Wainwright
+<img width="540" height="540" alt="wainwright_good" src="https://github.com/user-attachments/assets/e5e4af0f-c21d-4db8-90aa-ee2c0881c0ce" />
+<img width="540" height="540" alt="wainwright_evil" src="https://github.com/user-attachments/assets/8ea5268f-e446-4c3a-9464-ecdb419c2563" />
 
 ### Psephologist
+<img width="540" height="540" alt="psephologist_good" src="https://github.com/user-attachments/assets/23c90b84-0b7d-4d0e-abcb-1582090a2d70" />
+<img width="540" height="540" alt="psephologist_evil" src="https://github.com/user-attachments/assets/a09004f3-013c-4ba7-abe7-ece2e4c86c8f" />
 
 ### Chiromancer
+<img width="540" height="540" alt="chiffonier_good" src="https://github.com/user-attachments/assets/c8b3bd23-058f-4fbb-8562-658c64c0f13e" />
+<img width="540" height="540" alt="chiromancer_evil" src="https://github.com/user-attachments/assets/94c6a774-3fc7-422d-b1d8-ffa935c11d8d" />
 
 ### Embalmer
+<img width="540" height="540" alt="embalmer_good" src="https://github.com/user-attachments/assets/3f33c5e2-c805-4619-93ba-043751775097" />
+<img width="540" height="540" alt="embalmer_evil" src="https://github.com/user-attachments/assets/35bbcb9e-5b63-4bff-89cd-bd9826604276" />
 
 ### Prestidigitator
+<img width="540" height="540" alt="prestidigitator_good" src="https://github.com/user-attachments/assets/25b851af-6814-45be-bd62-8e50ce533117" />
+<img width="540" height="540" alt="prestidigitator_evil" src="https://github.com/user-attachments/assets/c906a07c-0cce-4873-a69a-eb672bebf1ad" />
 
 
 
