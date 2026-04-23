@@ -83,7 +83,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="psephologist_evil" src="https://github.com/user-attachments/assets/a09004f3-013c-4ba7-abe7-ece2e4c86c8f" />
 
 ### Chiromancer
-<img width="540" height="540" alt="chiffonier_good" src="https://github.com/user-attachments/assets/c8b3bd23-058f-4fbb-8562-658c64c0f13e" />
+<img width="540" height="540" alt="chiromancer_good" src="https://github.com/user-attachments/assets/a6bf1b91-320c-47e9-af4b-afcbaca80b76" />
 <img width="540" height="540" alt="chiromancer_evil" src="https://github.com/user-attachments/assets/94c6a774-3fc7-422d-b1d8-ffa935c11d8d" />
 
 ### Embalmer
