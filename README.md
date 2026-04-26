@@ -1,4 +1,4 @@
-<img width="540" height="540" alt="vinogenesis_evil" src="https://github.com/user-attachments/assets/a630b74d-12d3-4ad9-b2f5-102eb65aac68" /><img width="540" height="540" alt="kryptoloa_evil" src="https://github.com/user-attachments/assets/670d85ec-ff70-4ffd-a2a7-64813ff1505f" /><img width="540" height="540" alt="paranoia_evil" src="https://github.com/user-attachments/assets/36335411-0951-4ab3-9ed3-388cf66f1545" /># BloodontheClocktowerHomebrew
+# BloodontheClocktowerHomebrew
 icon generator settings: border size 7 pixels, output size 100
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
