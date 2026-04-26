@@ -113,10 +113,16 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Thaumaturge
 
 ### Wiseacre
+<img width="540" height="540" alt="wiseacre_good" src="https://github.com/user-attachments/assets/b039fb41-2fc3-42c0-804b-524f84a1eb2d" />
+<img width="540" height="540" alt="wiseacre_evil" src="https://github.com/user-attachments/assets/3a4fa053-a59c-41c7-b158-0557b6fb8c48" />
 
 ### High Roller
+<img width="540" height="540" alt="high_roller_good" src="https://github.com/user-attachments/assets/db43546f-1a13-42f5-884e-a43a478a96be" />
+<img width="540" height="540" alt="high_roller_evil" src="https://github.com/user-attachments/assets/7781245c-5cbb-4f76-8b7f-408b9f0aa9f9" />
 
 ### Polymath
+<img width="540" height="540" alt="polymath_good" src="https://github.com/user-attachments/assets/9f0380ce-4ffd-4b52-a6b7-1a0bd10b4131" />
+<img width="540" height="540" alt="polymath_evil" src="https://github.com/user-attachments/assets/a96dedd4-4183-4832-88e0-c9939e7f8902" />
 
 ### Anesthetist
 <img width="540" height="540" alt="anesthetist_good" src="https://github.com/user-attachments/assets/97bb47d1-8604-4a68-9112-23135e796388" />
@@ -131,60 +137,113 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="aeronaut_evil" src="https://github.com/user-attachments/assets/9da8beac-96fa-4b5d-860f-972cbeed7a4d" />
 
 ### Brigadier
+<img width="540" height="540" alt="brigadier_good" src="https://github.com/user-attachments/assets/ab19ead1-a37b-4295-8dd2-4e0b9d6aa479" />
+<img width="540" height="540" alt="brigadier_evil" src="https://github.com/user-attachments/assets/df51200f-de4e-4642-9cf4-a62aa6b7aae5" />
 
 ### Mythbuster
+<img width="540" height="540" alt="mythbuster_good" src="https://github.com/user-attachments/assets/ab58cf22-2437-411d-9b2a-f121a37c000a" />
+<img width="540" height="540" alt="mythbuster_evil" src="https://github.com/user-attachments/assets/35bdbf88-5d56-475d-9d98-8eb9e84e03ef" />
 
 ### Concierge
+<img width="540" height="540" alt="concierge_good" src="https://github.com/user-attachments/assets/ede5329e-c0c3-4aae-903e-95315420f39a" />
+<img width="540" height="540" alt="concierge_evil" src="https://github.com/user-attachments/assets/43b1e563-fe18-46b6-a2dc-e1719765206f" />
 
 ### Clerk
+<img width="540" height="540" alt="clerk_good" src="https://github.com/user-attachments/assets/6f18324f-8a24-43cc-a51c-d72f6a34f093" />
+<img width="540" height="540" alt="clerk_evil" src="https://github.com/user-attachments/assets/b56e6aed-57ff-4a25-8364-a245f8c1659c" />
 
 ### Tautologist
+<img width="540" height="540" alt="tautologist_good" src="https://github.com/user-attachments/assets/d3127947-f178-44c6-bc48-e3bb38b5cc52" />
+<img width="540" height="540" alt="tautologist_evil" src="https://github.com/user-attachments/assets/5af46d94-44af-400e-bbd3-3fd5ec6f049b" />
 
 ### Shogun
+<img width="540" height="540" alt="shogun_good" src="https://github.com/user-attachments/assets/cc945a90-8c20-4d19-9568-1c50327dcbe8" />
+<img width="540" height="540" alt="shogun_evil" src="https://github.com/user-attachments/assets/66724aa5-d1d7-402f-a73e-9f2a0e3cc4b4" />
 
 ### Valet
+<img width="540" height="540" alt="valet_good" src="https://github.com/user-attachments/assets/6f5195dc-7b90-49fd-9c10-abdbcfab83ca" />
+<img width="540" height="540" alt="valet_evil" src="https://github.com/user-attachments/assets/8cb38a35-de23-4dfb-b4ca-6668481732b6" />
 
 ### Valleywalker
+<img width="540" height="540" alt="valleywalker_good" src="https://github.com/user-attachments/assets/4c92a8be-b7e7-4fce-a197-bdf6bad40cbd" />
+<img width="540" height="540" alt="valleywalker_evil" src="https://github.com/user-attachments/assets/b400d90a-4c8e-4897-9a97-e2604e3919fe" />
 
 ### Bematist
+<img width="540" height="540" alt="bematist_good" src="https://github.com/user-attachments/assets/c05e24c3-cfa5-4c37-a07a-24a8c279f247" />
+<img width="540" height="540" alt="bematist_evil" src="https://github.com/user-attachments/assets/506f4a88-7e4d-4546-97a4-72aefed4009a" />
 
 ### Cartoonist
+<img width="540" height="540" alt="cartoonist_good" src="https://github.com/user-attachments/assets/f2680af5-d5ed-4481-b0f2-00e60706f090" />
+<img width="540" height="540" alt="cartoonist_evil" src="https://github.com/user-attachments/assets/d4f1b60e-58fe-4b72-bd4f-fbde21391980" />
 
 ### Abbot
+<img width="540" height="540" alt="abbot_good" src="https://github.com/user-attachments/assets/94f289d3-6001-47f0-8ba7-9da8c8f6e508" />
+<img width="540" height="540" alt="abbot_evil" src="https://github.com/user-attachments/assets/90a9994f-5763-49d4-a572-1277e2d5d128" />
 
 ### Martial Artist
+<img width="540" height="540" alt="martial_artist_good" src="https://github.com/user-attachments/assets/12fefedd-cd91-4b8d-9682-f09e4bcded55" />
+<img width="540" height="540" alt="martial_artist_evil" src="https://github.com/user-attachments/assets/16e6328a-2cf5-4dfc-a136-b035dccf720e" />
 
 ### Martyr
+<img width="540" height="540" alt="martyr_good" src="https://github.com/user-attachments/assets/0ce65b33-adf6-42ab-9438-0aa9b8bd27b2" />
+<img width="540" height="540" alt="martyr_evil" src="https://github.com/user-attachments/assets/99b70933-3a3e-4122-9e3d-4470b60b8035" />
 
 ### Obake
+<img width="540" height="540" alt="obake_good" src="https://github.com/user-attachments/assets/8769c69c-01ec-4037-892b-5fde8e6b41d8" />
+<img width="540" height="540" alt="obake_evil" src="https://github.com/user-attachments/assets/483b4979-13cd-4f3f-ba78-f6ea1940c61e" />
 
 ### Caricaturist
+<img width="540" height="540" alt="caricaturist_good" src="https://github.com/user-attachments/assets/81793077-3183-4f3a-a741-858cf9f5f919" />
+<img width="540" height="540" alt="caricaturist_evil" src="https://github.com/user-attachments/assets/21b633d1-35cb-451a-b712-2c986e78858a" />
 
 ### Cryptozoologist
 
 ### Sabreur
+<img width="540" height="540" alt="sabreur_good" src="https://github.com/user-attachments/assets/22e8cb25-eb1f-40e0-b565-42f6acd199d4" />
+<img width="540" height="540" alt="sabreur_evil" src="https://github.com/user-attachments/assets/8472ed5e-be59-4d67-8f2c-2c3f83625b6c" />
 
 ### Ensign
+<img width="540" height="540" alt="ensign_good" src="https://github.com/user-attachments/assets/b262e9ee-25df-4d30-8953-773ce540efea" />
+<img width="540" height="540" alt="ensign_evil" src="https://github.com/user-attachments/assets/ab3578b2-990f-4396-b2c5-ff39b6f0b9b5" />
 
 ### Sponge
+<img width="540" height="540" alt="sponge_good" src="https://github.com/user-attachments/assets/d123f103-2488-4f32-8113-c90e8ddf4f26" />
+<img width="540" height="540" alt="sponge_evil" src="https://github.com/user-attachments/assets/e4425cb1-2287-4421-bcec-0ef9c2870531" />
 
 ### Stuntman
+<img width="540" height="540" alt="stuntman_good" src="https://github.com/user-attachments/assets/a724d9a7-1f4b-4615-93d8-83f5e074ad11" />
+<img width="540" height="540" alt="stuntman_evil" src="https://github.com/user-attachments/assets/93a52108-3ffc-4aef-a5bb-57c6fbb70f30" />
 
 ### Bellfounder
+<img width="540" height="540" alt="bellfounder_good" src="https://github.com/user-attachments/assets/8a076e74-4337-48bf-9a08-3405b6c1040a" />
+<img width="540" height="540" alt="bellfounder_evil" src="https://github.com/user-attachments/assets/247e827a-fb17-4d13-a856-6d9148765334" />
 
 ### Chamberlain
+<img width="540" height="540" alt="chamberlain_good" src="https://github.com/user-attachments/assets/8cf9bee8-ce9e-46b0-ad1a-aba141c9471c" />
+<img width="540" height="540" alt="chamberlain_evil" src="https://github.com/user-attachments/assets/ea6a3b74-636a-4aa4-9972-28da3da2a6d6" />
 
 ### Hussar
+<img width="540" height="540" alt="hussar_good" src="https://github.com/user-attachments/assets/e28a75d7-e88a-4b8b-952a-7acbb916803a" />
+<img width="540" height="540" alt="hussar_evil" src="https://github.com/user-attachments/assets/7ee278b3-03ff-4ccd-9be2-9b1cfebd39dd" />
 
 ### Friar
+<img width="540" height="540" alt="friar_good" src="https://github.com/user-attachments/assets/7b1fc3fd-ace8-4d61-96d1-e5f7f877a33b" />
+<img width="540" height="540" alt="friar_evil" src="https://github.com/user-attachments/assets/d2b3332f-3875-4748-906e-67320bbbdc56" />
 
 ### Warlord
+<img width="800" height="800" alt="WizardGood" src="https://github.com/user-attachments/assets/7306aea2-79fc-4073-80c5-9e63fa9d7118" />
 
 ### Matador
+<img width="540" height="540" alt="matador_good" src="https://github.com/user-attachments/assets/41829b93-a42c-4fef-886f-ae7ff7e79e79" />
+<img width="540" height="540" alt="matador_evil" src="https://github.com/user-attachments/assets/8b0d861e-9e15-4224-a0bb-4d4979832dae" />
 
 ### Pedagogue
+<img width="540" height="540" alt="pedagogue_good" src="https://github.com/user-attachments/assets/619a97c6-a37b-4e3e-9679-1aa97c14a981" />
+<img width="540" height="540" alt="pedagogue_evil" src="https://github.com/user-attachments/assets/036dd604-3000-4088-b226-6d64c0fee0be" />
 
 ### Abjurist
+<img width="540" height="540" alt="abjurist_good" src="https://github.com/user-attachments/assets/47be415a-f728-423c-a92b-4f41bc8423cd" />
+<img width="540" height="540" alt="abjurist_evil" src="https://github.com/user-attachments/assets/c1191f8d-e4b3-4fb3-b60b-917baab39b99" />
 
 ## Outsiders
 ### Hooligan
