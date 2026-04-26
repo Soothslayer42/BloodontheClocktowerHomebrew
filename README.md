@@ -111,6 +111,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="bibliosoph_evil" src="https://github.com/user-attachments/assets/82f9e7d6-fa2b-4767-b9b0-b6435aab56ea" />
 
 ### Thaumaturge
+<img width="540" height="540" alt="thaumaturge_good" src="https://github.com/user-attachments/assets/a559578c-6567-4c2e-957d-64d6223fc21b" />
+<img width="540" height="540" alt="thaumaturge_evil" src="https://github.com/user-attachments/assets/72a8a1af-f7ca-43a8-988d-671c41ccd2c8" />
 
 ### Wiseacre
 <img width="540" height="540" alt="wiseacre_good" src="https://github.com/user-attachments/assets/b039fb41-2fc3-42c0-804b-524f84a1eb2d" />
@@ -247,22 +249,39 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ## Outsiders
 ### Hooligan
+<img width="540" height="540" alt="hooligan_good" src="https://github.com/user-attachments/assets/21d85a3a-9a09-4dc2-9c98-500ed1007a7c" />
+<img width="540" height="540" alt="hooligan_evil" src="https://github.com/user-attachments/assets/0d4f807d-bd7d-4f9b-8a8e-d7bcc7cd492d" />
 
 ### Scab
+<img width="540" height="540" alt="scab_good" src="https://github.com/user-attachments/assets/3ee32a4c-2844-4220-87e9-6af595178a86" />
+<img width="540" height="540" alt="scab_evil" src="https://github.com/user-attachments/assets/6c300718-e29b-4974-8b81-a971d99b93c2" />
 
 ### Barfly
+<img width="540" height="540" alt="barfly_good" src="https://github.com/user-attachments/assets/430379f7-ad06-423b-9627-5eb310559097" />
+<img width="540" height="540" alt="barfly_evil" src="https://github.com/user-attachments/assets/a6cfe2a5-2bd7-4cd7-bd4a-b04f35dbd56a" />
 
 ### Daywalker
+<img width="540" height="540" alt="daywalker_good" src="https://github.com/user-attachments/assets/52141f69-e742-4693-b52a-0908246e5396" />
+<img width="540" height="540" alt="daywalker_evil" src="https://github.com/user-attachments/assets/104cade1-80a3-4900-9267-7d6e19295571" />
 
 ### Ideologue
+<img width="540" height="540" alt="ideologue_good" src="https://github.com/user-attachments/assets/ca0e6d9c-322e-4846-9686-8c48d04c6812" />
+<img width="540" height="540" alt="ideologue_evil" src="https://github.com/user-attachments/assets/81768900-cd26-45fa-9660-f9b2d34b5a9a" />
 
 ### Scallywag
+<img width="540" height="540" alt="scallywag_good" src="https://github.com/user-attachments/assets/8f60af40-65df-45f4-9733-44ef616544d7" />
+<img width="540" height="540" alt="scallywag_evil" src="https://github.com/user-attachments/assets/5291419a-9c30-4ee6-9aef-c20d258572c6" />
 
 ### Philister
+<img width="540" height="540" alt="philister_good" src="https://github.com/user-attachments/assets/4e4fab32-2325-42a3-ab62-a8f942718b7f" />
+<img width="540" height="540" alt="philister_evil" src="https://github.com/user-attachments/assets/89f22805-daa6-4d64-a380-cc014dc98b54" />
 
 ### Sybarite
+<img width="540" height="540" alt="sybarite_good" src="https://github.com/user-attachments/assets/df5b7dcc-6ec6-4a5f-83a7-04c686bcf339" />
+<img width="540" height="540" alt="sybarite_evil" src="https://github.com/user-attachments/assets/5cc5a281-ed4d-4bfe-81c4-a779b776c6a6" />
 
 ### Neophyte
+<img width="540" height="540" alt="neophyte_evil" src="https://github.com/user-attachments/assets/56439d1a-c4dd-473b-be2e-a2664846ca62" />
 
 ### Tyrant
 
