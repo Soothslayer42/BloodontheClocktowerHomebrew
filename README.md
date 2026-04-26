@@ -1,4 +1,4 @@
-# BloodontheClocktowerHomebrew
+<img width="540" height="540" alt="vinogenesis_evil" src="https://github.com/user-attachments/assets/a630b74d-12d3-4ad9-b2f5-102eb65aac68" /><img width="540" height="540" alt="kryptoloa_evil" src="https://github.com/user-attachments/assets/670d85ec-ff70-4ffd-a2a7-64813ff1505f" /><img width="540" height="540" alt="paranoia_evil" src="https://github.com/user-attachments/assets/36335411-0951-4ab3-9ed3-388cf66f1545" /># BloodontheClocktowerHomebrew
 icon generator settings: border size 7 pixels, output size 100
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
@@ -233,7 +233,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="friar_evil" src="https://github.com/user-attachments/assets/d2b3332f-3875-4748-906e-67320bbbdc56" />
 
 ### Warlord
-
+<img width="540" height="540" alt="warlord_good" src="https://github.com/user-attachments/assets/90ac06dd-a7cf-4edd-8095-6276f3bc3aee" />
+<img width="540" height="540" alt="warlord_evil" src="https://github.com/user-attachments/assets/5f573591-61f8-4ee9-95e3-5ad8003f8daf" />
 
 ### Matador
 <img width="540" height="540" alt="matador_good" src="https://github.com/user-attachments/assets/41829b93-a42c-4fef-886f-ae7ff7e79e79" />
@@ -285,63 +286,117 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="neophyte_evil" src="https://github.com/user-attachments/assets/56439d1a-c4dd-473b-be2e-a2664846ca62" />
 
 ### Tyrant
+<img width="540" height="540" alt="tyrant_good" src="https://github.com/user-attachments/assets/504fc936-719d-4c24-a1d7-5ea5dded2a45" />
+<img width="540" height="540" alt="tyrant_evil" src="https://github.com/user-attachments/assets/8ddda928-4edc-435e-b417-31a0ac6cd2c2" />
 
 ### Arachnologist
 
 ### Kleptocrat
+<img width="540" height="540" alt="kleptocrat_good" src="https://github.com/user-attachments/assets/52a0fb31-b6ed-4290-bd44-5a1dc1354a95" />
+<img width="540" height="540" alt="kleptocrat_evil" src="https://github.com/user-attachments/assets/ff7ede4f-3961-4a28-a08c-20c497060f66" />
 
 ### Star-Crossed
+<img width="540" height="540" alt="star-crossed_good" src="https://github.com/user-attachments/assets/0cbaebd1-add8-472c-ad42-2348d9b4a00d" />
+<img width="540" height="540" alt="star-crossed_evil" src="https://github.com/user-attachments/assets/d261cfdd-af03-4d5a-954b-13d490a3e3d6" />
 
 ## Minions
 ### Handler
+<img width="540" height="540" alt="handler_good" src="https://github.com/user-attachments/assets/400d90e4-a56d-434c-b1a6-54b8d56bf2ed" />
+<img width="540" height="540" alt="handler_evil" src="https://github.com/user-attachments/assets/9100500e-50c8-404c-9d8d-d04258a14574" />
 
 ### Apocrypha
+<img width="540" height="540" alt="apocrypha_good" src="https://github.com/user-attachments/assets/fbdc16cd-4056-4142-950f-4984572bb4f1" />
+<img width="540" height="540" alt="apocrypha_evil" src="https://github.com/user-attachments/assets/4fed0c54-8cae-455f-88f2-7d175926d2ca" />
 
 ### Hemomancer
+<img width="540" height="540" alt="hemomancer_good" src="https://github.com/user-attachments/assets/117a7532-30f5-4d60-9aa3-a1ca73d2b0c7" />
+<img width="540" height="540" alt="hemomancer_evil" src="https://github.com/user-attachments/assets/fe78ee81-fbfa-4bac-8724-db14251173e9" />
 
 ### Paranoia
+<img width="540" height="540" alt="paranoia_good" src="https://github.com/user-attachments/assets/f157cc65-084f-4855-9236-b89909ec2dc9" />
+<img width="540" height="540" alt="paranoia_evil" src="https://github.com/user-attachments/assets/6c078cd0-8744-41bb-926b-200c60e6b341" />
 
 ### Demagogue
+<img width="540" height="540" alt="demagogue_good" src="https://github.com/user-attachments/assets/cb84d768-635e-40dc-9573-e982606b4d52" />
+<img width="540" height="540" alt="demagogue_evil" src="https://github.com/user-attachments/assets/8055ef02-8b70-4442-9d94-5c95271bcdb3" />
 
 ### Dajjal
+<img width="540" height="540" alt="dajjal_good" src="https://github.com/user-attachments/assets/d862bb49-e819-49cd-8815-9cca5c4408c0" />
+<img width="540" height="540" alt="dajjal_evil" src="https://github.com/user-attachments/assets/687b98f4-8510-48fe-b910-3440c4bb60ec" />
 
 ### Cornucopia
+<img width="540" height="540" alt="cornucopia_good" src="https://github.com/user-attachments/assets/2847a12a-1561-4eff-a9d6-605e9958fd80" />
+<img width="540" height="540" alt="cornucopia_evil" src="https://github.com/user-attachments/assets/d1de5036-95f1-4804-9402-2afe158aecd2" />
 
 ### Ambrosia
+<img width="540" height="540" alt="ambrosia_good" src="https://github.com/user-attachments/assets/c95490de-4f8a-4e12-88ed-670c1b9530e4" />
+<img width="540" height="540" alt="ambrosia_evil" src="https://github.com/user-attachments/assets/6ec78a3d-9246-48a2-a654-f2505363e045" />
 
 ### Jörmungandr
+<img width="540" height="540" alt="jormungandr_good" src="https://github.com/user-attachments/assets/24f6325b-1445-4620-a708-209817976e11" />
+<img width="540" height="540" alt="jormungandr_evil" src="https://github.com/user-attachments/assets/485b1f68-2a02-40b1-9531-52e3d4abc7ba" />
 
 ### Escape Artist
 
 ### Nyx
+<img width="540" height="540" alt="nyx_good" src="https://github.com/user-attachments/assets/37b8b919-425b-43ca-a5de-4fdba6ce29d2" />
+<img width="540" height="540" alt="nyx_evil" src="https://github.com/user-attachments/assets/a21c337a-aefe-42e7-a617-f30793ad7b13" />
 
 ### Astaroth
+<img width="540" height="540" alt="astaroth_good" src="https://github.com/user-attachments/assets/2f45e103-600b-4da8-be93-1be0adfd8025" />
+<img width="540" height="540" alt="astaroth_evil" src="https://github.com/user-attachments/assets/f04b6a29-ddf5-4193-aaf4-a1438fadc7c9" />
 
 ### Charybdis
+<img width="540" height="540" alt="charybdis_good" src="https://github.com/user-attachments/assets/ec28a12f-1f84-494d-a726-809b9cb448c9" />
+<img width="540" height="540" alt="charybdis_evil" src="https://github.com/user-attachments/assets/170ffa18-3d17-4b54-95d7-426f62d5c1a6" />
 
 ### Aletheia
+<img width="540" height="540" alt="aletheia_good" src="https://github.com/user-attachments/assets/a1b0462d-8e8b-4881-8ca4-ea179ef2217c" />
+<img width="540" height="540" alt="aletheia_evil" src="https://github.com/user-attachments/assets/e8da8aac-11cd-49e7-b274-e0a4d6af49e9" />
 
 ### Jack-in-the-Box
+<img width="540" height="540" alt="jack-in-the-box_good" src="https://github.com/user-attachments/assets/359167b1-9664-491d-a5e3-3a2b966b4d85" />
+<img width="540" height="540" alt="jack-in-the-box_evil" src="https://github.com/user-attachments/assets/fca03b75-b299-45fe-9852-b5e8904e0848" />
 
 ### Barbarossa
+<img width="540" height="540" alt="barbarossa_good" src="https://github.com/user-attachments/assets/40426596-d446-4e7a-bf28-ca2ffcfc6adf" />
+<img width="540" height="540" alt="barbarossa_evil" src="https://github.com/user-attachments/assets/f116f15d-8bd5-4a03-a83e-54da830ce2f1" />
 
 ### Phantasmagoria
+<img width="540" height="540" alt="phantasmagoria_good" src="https://github.com/user-attachments/assets/35b840dc-9fa5-450b-9ad6-f517fc8502ab" />
+<img width="540" height="540" alt="phantasmagoria_evil" src="https://github.com/user-attachments/assets/63822416-ae3a-47df-b0a7-ba4bb702807e" />
 
 ### Boustrofiend
+<img width="540" height="540" alt="boustrofiend_good" src="https://github.com/user-attachments/assets/730f5dd4-2a32-476c-93ca-ab27b796feec" />
+<img width="540" height="540" alt="boustrofiend_evil" src="https://github.com/user-attachments/assets/247fcadc-8bcc-4fd5-9167-b1c0df806910" />
 
 ### Quicksilver
+<img width="540" height="540" alt="quicksilver_good" src="https://github.com/user-attachments/assets/e5bf3f3d-ad46-4799-a402-fc49c1536ae9" />
+<img width="540" height="540" alt="quicksilver_evil" src="https://github.com/user-attachments/assets/13990aea-df84-4b7e-bfee-4308f81ca484" />
 
 ### Vinogenesis
+<img width="540" height="540" alt="vinogenesis_good" src="https://github.com/user-attachments/assets/f7b25933-5e38-4d13-8614-2906cc103420" />
+<img width="540" height="540" alt="vinogenesis_evil" src="https://github.com/user-attachments/assets/f8d7d5fc-3ebb-4a17-8458-645a94c07d12" />
 
 ### Morningstar
+<img width="540" height="540" alt="morningstar_good" src="https://github.com/user-attachments/assets/f8dcc154-fb3d-450d-8a5e-288b813138e1" />
+<img width="540" height="540" alt="morningstar_evil" src="https://github.com/user-attachments/assets/47f36130-f33b-41ee-ad50-823d0919b0ce" />
 
 ### Kryptoloa
+<img width="540" height="540" alt="kryptoloa_good" src="https://github.com/user-attachments/assets/0c05541f-f5a1-4193-8fa7-10a535abfa66" />
+<img width="540" height="540" alt="kryptoloa_evil" src="https://github.com/user-attachments/assets/6f900aa5-5b16-4c07-9df9-206b944916ba" />
 
 ### Yaldabaoth
+<img width="540" height="540" alt="yaldabaoth_good" src="https://github.com/user-attachments/assets/43f2de33-9e43-4e91-8879-a3122b05e587" />
+<img width="540" height="540" alt="yaldabaoth_evil" src="https://github.com/user-attachments/assets/79a88ae4-7499-4c68-b7c3-97a5ebf30ca9" />
 
 ### Apollyon
+<img width="540" height="540" alt="apollyon_good" src="https://github.com/user-attachments/assets/677f80bc-8b0e-47ab-98f6-b537044cd002" />
+<img width="540" height="540" alt="apollyon_evil" src="https://github.com/user-attachments/assets/4b6b6dcf-c94a-4ebc-9503-dda489e5a7bd" />
 
 ### Dioskouroi
+<img width="540" height="540" alt="dioskouroi_good" src="https://github.com/user-attachments/assets/53a843d0-3c16-4433-b5b0-7ed436b38526" />
+<img width="540" height="540" alt="dioskouroi_evil" src="https://github.com/user-attachments/assets/c89f02e6-a5e8-47c6-9cc3-3a09ee7744b6" />
 
 ## Demons
 ### Roulette
@@ -386,13 +441,18 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ## Travellers
 ### Architect
+<img width="540" height="540" alt="architect_trav" src="https://github.com/user-attachments/assets/cc48c45e-808f-4d28-8d11-019c4bcadf43" />
+<img width="540" height="540" alt="architect_good" src="https://github.com/user-attachments/assets/6f49fb01-3ef9-4bef-aa91-262e306d746c" />
+<img width="540" height="540" alt="architect_evil" src="https://github.com/user-attachments/assets/9a6da866-dd3e-4ab5-929e-a423e7a3dfc7" />
 
 ### 
 
 ## Loric
 ### Transfuser
+<img width="540" height="540" alt="transfuser_loric" src="https://github.com/user-attachments/assets/965da172-8a0d-44cf-bd27-091592d7cbf1" />
 
 ### Evolutionist
+<img width="500" height="500" alt="evolutionist_by_Tir" src="https://github.com/user-attachments/assets/1680e627-9ac7-4d51-b828-af8968978d6d" />
 
 ### 
 
@@ -406,9 +466,6 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ### 
 
-### 
-
-### 
 
 
 
