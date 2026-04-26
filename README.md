@@ -281,6 +281,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="sybarite_evil" src="https://github.com/user-attachments/assets/5cc5a281-ed4d-4bfe-81c4-a779b776c6a6" />
 
 ### Neophyte
+<img width="540" height="540" alt="neophyte_good" src="https://github.com/user-attachments/assets/6bf454eb-0a8c-48aa-92c1-2a435378aef0" />
 <img width="540" height="540" alt="neophyte_evil" src="https://github.com/user-attachments/assets/56439d1a-c4dd-473b-be2e-a2664846ca62" />
 
 ### Tyrant
