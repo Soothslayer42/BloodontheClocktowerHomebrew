@@ -340,6 +340,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ## Travellers
 ### Major
-<img width="600" height="600" alt="Major_trav" src="https://github.com/user-attachments/assets/ec44d3cd-ead2-4194-8071-67367dfdd500" />
-<img width="600" height="600" alt="MajorGood" src="https://github.com/user-attachments/assets/31822e8e-787b-4971-982b-44dcd6183370" />
-<img width="600" height="600" alt="MajorEvil" src="https://github.com/user-attachments/assets/27266234-b852-4024-8bd1-6013bb4d9615" />
+<img width="600" height="600" alt="MajorTrav" src="https://github.com/user-attachments/assets/61a0d9b7-06d8-42b8-a34e-10bf2880c28c" />
+<img width="600" height="600" alt="MajorGood_1" src="https://github.com/user-attachments/assets/edfd95ce-3293-4b82-9d84-1f72da667605" />
+<img width="600" height="600" alt="MajorTrav" src="https://github.com/user-attachments/assets/58003497-7be1-4a6b-8792-195b1b877b49" />
+
