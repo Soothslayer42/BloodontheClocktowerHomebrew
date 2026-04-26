@@ -231,7 +231,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="friar_evil" src="https://github.com/user-attachments/assets/d2b3332f-3875-4748-906e-67320bbbdc56" />
 
 ### Warlord
-<img width="800" height="800" alt="WizardGood" src="https://github.com/user-attachments/assets/7306aea2-79fc-4073-80c5-9e63fa9d7118" />
+
 
 ### Matador
 <img width="540" height="540" alt="matador_good" src="https://github.com/user-attachments/assets/41829b93-a42c-4fef-886f-ae7ff7e79e79" />
