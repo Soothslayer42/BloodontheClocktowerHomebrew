@@ -95,12 +95,20 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="prestidigitator_evil" src="https://github.com/user-attachments/assets/c906a07c-0cce-4873-a69a-eb672bebf1ad" />
 
 ### Lapidary
+<img width="540" height="540" alt="lapidary_good" src="https://github.com/user-attachments/assets/326dfeab-e6f5-4c63-8e41-4ec97f02a643" />
+<img width="540" height="540" alt="lapidary_evil" src="https://github.com/user-attachments/assets/ea9873bd-4ec8-40ff-b71b-bafbb8233e74" />
 
 ### Seafarer
+<img width="540" height="540" alt="seafarer_good" src="https://github.com/user-attachments/assets/7de4600e-9e86-41f5-b80b-b6e528e05ffa" />
+<img width="540" height="540" alt="seafarer_evil" src="https://github.com/user-attachments/assets/51fe2239-aac0-4cb7-b557-f4c74bec4242" />
 
 ### Firefighter
+<img width="540" height="540" alt="firefighter_good" src="https://github.com/user-attachments/assets/27237cfc-6382-4a09-9a7f-5e8510f391b7" />
+<img width="540" height="540" alt="firefighter_evil" src="https://github.com/user-attachments/assets/73287c31-89c1-4c2f-af07-5f5b660e5335" />
 
 ### Bibliosoph
+<img width="540" height="540" alt="bibliosoph_good" src="https://github.com/user-attachments/assets/15089427-472f-4565-b988-e10ec42455ef" />
+<img width="540" height="540" alt="bibliosoph_evil" src="https://github.com/user-attachments/assets/82f9e7d6-fa2b-4767-b9b0-b6435aab56ea" />
 
 ### Thaumaturge
 
@@ -111,10 +119,16 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Polymath
 
 ### Anesthetist
+<img width="540" height="540" alt="anesthetist_good" src="https://github.com/user-attachments/assets/97bb47d1-8604-4a68-9112-23135e796388" />
+<img width="540" height="540" alt="anesthetist_evil" src="https://github.com/user-attachments/assets/11297c50-403d-48bf-8c5f-142e9796e74a" />
 
 ### Diver
+<img width="540" height="540" alt="diver_good" src="https://github.com/user-attachments/assets/56b4d6ef-6bb0-4dff-bbf4-03526fa44dff" />
+<img width="540" height="540" alt="diver_evil" src="https://github.com/user-attachments/assets/f9d87f09-69d4-4ff4-a933-db659833758f" />
 
 ### Aeronaut
+<img width="540" height="540" alt="aeronaut_good" src="https://github.com/user-attachments/assets/db5cd59a-77a4-407a-bbf3-85f9aaa4e39c" />
+<img width="540" height="540" alt="aeronaut_evil" src="https://github.com/user-attachments/assets/9da8beac-96fa-4b5d-860f-972cbeed7a4d" />
 
 ### Brigadier
 
