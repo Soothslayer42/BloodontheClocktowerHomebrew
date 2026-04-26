@@ -94,7 +94,212 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="prestidigitator_good" src="https://github.com/user-attachments/assets/25b851af-6814-45be-bd62-8e50ce533117" />
 <img width="100" height="100" alt="prestidigitator_evil" src="https://github.com/user-attachments/assets/c906a07c-0cce-4873-a69a-eb672bebf1ad" />
 
+### Lapidary
+
+### Seafarer
+
+### Firefighter
+
+### Bibliosoph
+
+### Thaumaturge
+
+### Wiseacre
+
+### High Roller
+
+### Polymath
+
+### Anesthetist
+
+### Diver
+
+### Aeronaut
+
+### Brigadier
+
+### Mythbuster
+
+### Concierge
+
+### Clerk
+
+### Tautologist
+
+### Shogun
+
+### Valet
+
+### Valleywalker
+
+### Bematist
+
+### Cartoonist
+
+### Abbot
+
+### Martial Artist
+
+### Martyr
+
+### Obake
+
+### Caricaturist
+
+### Cryptozoologist
+
+### Sabreur
+
+### Ensign
+
+### Sponge
+
+### Stuntman
+
+### Bellfounder
+
+### Chamberlain
+
+### Hussar
+
+### Friar
+
+### Warlord
+
+### Matador
+
+### Pedagogue
+
+### Abjurist
+
+## Outsiders
+### Hooligan
+
+### Scab
+
+### Barfly
+
+### Daywalker
+
+### Ideologue
+
+### Scallywag
+
+### Philister
+
+### Sybarite
+
+### Neophyte
+
+### Tyrant
+
+### Arachnologist
+
+### Kleptocrat
+
+### Star-Crossed
+
+## Minions
+### Handler
+
+### Apocrypha
+
+### Hemomancer
+
+### Paranoia
+
+### Demagogue
+
+### Dajjal
+
+### Cornucopia
+
+### Ambrosia
+
+### Jörmungandr
+
+### Escape Artist
+
+### Nyx
+
+### Astaroth
+
+### Charybdis
+
+### Aletheia
+
+### Jack-in-the-Box
+
+### Barbarossa
+
+### Phantasmagoria
+
+### Boustrofiend
+
+### Quicksilver
+
+### Vinogenesis
+
+### Morningstar
+
+### Kryptoloa
+
+### Yaldabaoth
+
+### Apollyon
+
+### Dioskouroi
+
+## Demons
+### Roulette
+
+### Lonely God
+
+### Avari
+
+### Ulfrik
+
+### Quamgar
+
+### Sidewinder
+
+### Vidarr
+
+### Kurs-Haal
+
+### Frak-Tuul
+
+### Acrimortem
+
+### Mephiticus
+
+### Antaph
+
+### Vilgrasp
+
+### Loxodaunt
+
+### Graygu
+
+### Kraggor-293
+
+### Omnoculus
+
+### Malabane
+
+### Society
+
+### Necrodeux
+
+## Travellers
+### Architect
+
 ### 
+
+## Loric
+### Transfuser
+
+### Evolutionist
 
 ### 
 
@@ -112,63 +317,6 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ### 
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
 
 
 
