@@ -291,10 +291,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="tyrant_evil" src="https://github.com/user-attachments/assets/8ddda928-4edc-435e-b417-31a0ac6cd2c2" />
 
 ### Arachnologist
-<img width="540" height="540" alt="arachnologist_good_take2" src="https://github.com/user-attachments/assets/c2d5f551-d3ca-47ab-b81a-a93bc5c798ba" />
-
-<img width="540" height="540" alt="arachnologist_good" src="https://github.com/user-attachments/assets/9696a3d7-dfb7-40ab-8ddd-cb4240726da7" />
-<img width="540" height="540" alt="arachnologist_evil" src="https://github.com/user-attachments/assets/e4e2aad3-fa37-4694-94fc-a49d12c91133" />
+<img width="540" height="540" alt="arachnologist_good" src="https://github.com/user-attachments/assets/c2d5f551-d3ca-47ab-b81a-a93bc5c798ba" />
+<img width="540" height="540" alt="arachnologist_evil" src="https://github.com/user-attachments/assets/f5bc0717-520f-4c19-8557-77510befc65b" />
 
 ### Kleptocrat
 <img width="540" height="540" alt="kleptocrat_good" src="https://github.com/user-attachments/assets/52a0fb31-b6ed-4290-bd44-5a1dc1354a95" />
