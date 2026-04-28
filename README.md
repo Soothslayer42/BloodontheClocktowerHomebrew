@@ -199,7 +199,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="caricaturist_evil" src="https://github.com/user-attachments/assets/21b633d1-35cb-451a-b712-2c986e78858a" />
 
 ### Cryptozoologist
-<img width="500" height="500" alt="cryptozoologist_good by Tir" src="https://github.com/user-attachments/assets/d6624f28-41c5-4359-9483-7789f0683652" />
+<img width="540" height="540" alt="cryptozoologist_alt_dropshadow" src="https://github.com/user-attachments/assets/b5324f36-9457-4f8b-994d-4f385751b72f" />
 
 ### Sabreur
 <img width="540" height="540" alt="sabreur_good" src="https://github.com/user-attachments/assets/22e8cb25-eb1f-40e0-b565-42f6acd199d4" />
