@@ -340,6 +340,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="jormungandr_evil" src="https://github.com/user-attachments/assets/485b1f68-2a02-40b1-9531-52e3d4abc7ba" />
 
 ### Escape Artist
+<img width="500" height="500" alt="Escape Artist (Evil)" src="https://github.com/user-attachments/assets/dd573fcd-b4b4-4478-9c4a-37b52db12a02" />
 
 ### Nyx
 <img width="540" height="540" alt="nyx_good" src="https://github.com/user-attachments/assets/37b8b919-425b-43ca-a5de-4fdba6ce29d2" />
