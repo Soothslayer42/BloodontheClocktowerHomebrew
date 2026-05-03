@@ -1,4 +1,4 @@
-# BloodontheClocktowerHomebrew
+<img width="540" height="540" alt="necrodeux_evil" src="https://github.com/user-attachments/assets/3127e792-f769-4c4d-959d-34741832d658" /><img width="540" height="540" alt="omnoculus_evil" src="https://github.com/user-attachments/assets/6de25cbe-7b6c-4042-a9af-7f5306d3c5fe" /># BloodontheClocktowerHomebrew
 icon generator settings: border size 7 pixels, output size 100
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
@@ -406,42 +406,76 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Roulette
 
 ### Lonely God
+<img width="540" height="540" alt="lonely_god_good" src="https://github.com/user-attachments/assets/987c2523-ccad-4f18-ae69-e1d6e1797460" />
+<img width="540" height="540" alt="lonely_god_evil" src="https://github.com/user-attachments/assets/f378dfe0-10d7-4921-958d-e83069b86963" />
 
 ### Avari
+<img width="540" height="540" alt="avari_good" src="https://github.com/user-attachments/assets/35f44936-b125-4a1e-beb8-dc328f2c1574" />
+<img width="540" height="540" alt="avari_evil" src="https://github.com/user-attachments/assets/83d025a1-a15f-4f7e-adbd-9bc62863ae77" />
 
 ### Ulfrik
+<img width="540" height="540" alt="ulfrik_good" src="https://github.com/user-attachments/assets/cf720a90-9789-42df-b372-95a5a251e0e5" />
+<img width="540" height="540" alt="ulfrik_evil" src="https://github.com/user-attachments/assets/7b68b0df-baa3-47d1-bca2-329c10644ad4" />
 
 ### Quamgar
+<img width="540" height="540" alt="quamgar_good" src="https://github.com/user-attachments/assets/4def72c7-46ae-4cb9-84cf-99daf545ab4e" />
+<img width="540" height="540" alt="quamgar_evil" src="https://github.com/user-attachments/assets/b72fd915-1e12-4add-863a-10a8366ed529" />
 
 ### Sidewinder
+<img width="540" height="540" alt="sidewinder_good" src="https://github.com/user-attachments/assets/6382a829-6637-46f9-b895-eb8b170d65de" />
+<img width="540" height="540" alt="sidewinder_evil" src="https://github.com/user-attachments/assets/db242a90-0ca2-493a-bc39-54cfce55cfdf" />
 
 ### Vidarr
+<img width="540" height="540" alt="vidarr_good" src="https://github.com/user-attachments/assets/e3179720-2eef-405b-9b15-fb6f4ace34f7" />
+<img width="540" height="540" alt="vidarr_evil" src="https://github.com/user-attachments/assets/17601d49-56e9-4552-8a2f-1b29bd50ad90" />
 
 ### Kurs-Haal
 
 ### Frak-Tuul
+<img width="540" height="540" alt="frak-tuul_good" src="https://github.com/user-attachments/assets/a9dfaef4-57e2-4c67-9f96-554eaee978df" />
+<img width="540" height="540" alt="frak-tuul_evil" src="https://github.com/user-attachments/assets/fd1a834c-9f20-4a29-b7fd-cfc36a2b1960" />
 
 ### Acrimortem
+<img width="540" height="540" alt="acrimortem_good" src="https://github.com/user-attachments/assets/f0d1ff4e-982b-45d7-8ebc-4b9fbeceb86b" />
+<img width="540" height="540" alt="acrimortem_evil" src="https://github.com/user-attachments/assets/48f320d3-cf7e-4cdb-bcd0-dbfbe98bd231" />
 
 ### Mephiticus
+<img width="540" height="540" alt="mephiticus_good" src="https://github.com/user-attachments/assets/33e698fb-2e70-4384-b79b-0b256f131791" />
+<img width="540" height="540" alt="mephiticus_evil" src="https://github.com/user-attachments/assets/24188b2b-af6b-494c-90ef-48ae35b0c1f2" />
 
 ### Antaph
+<img width="540" height="540" alt="antaph_good" src="https://github.com/user-attachments/assets/acef4546-e0fb-43a9-8881-a176aee171ec" />
+<img width="540" height="540" alt="antaph_evil" src="https://github.com/user-attachments/assets/fbb7c22e-c360-45c4-9940-5acd6a0410d1" />
 
 ### Vilgrasp
+<img width="540" height="540" alt="vilgrasp_good" src="https://github.com/user-attachments/assets/bfd12d1c-3270-49f3-8b91-9c3ce9c1571d" />
+<img width="540" height="540" alt="vilgrasp_evil" src="https://github.com/user-attachments/assets/07205755-6bf3-4000-95fd-799e8b9666bc" />
 
 ### Loxodaunt
+<img width="512" height="512" alt="Loxodaunt_evil" src="https://github.com/user-attachments/assets/29a8b847-949b-4b5e-9d79-28a711d87046" />
 
 ### Graygu
+<img width="540" height="540" alt="graygu_good" src="https://github.com/user-attachments/assets/a7dcc97c-2263-47cd-b89c-e822ec99b8e8" />
+<img width="540" height="540" alt="graygu_evil" src="https://github.com/user-attachments/assets/d7c86cce-88f1-4dde-ba0b-8fdca8504a71" />
 
 ### Kraggor-293
+<img width="540" height="540" alt="kraggor_293_good" src="https://github.com/user-attachments/assets/3ce85ab3-5c52-4a13-891c-de7feb8b2be4" />
+<img width="540" height="540" alt="kraggor_293_evil" src="https://github.com/user-attachments/assets/4160bf33-3b2d-4d41-8121-53f816f7e180" />
 
 ### Omnoculus
+<img width="540" height="540" alt="omnoculus_good" src="https://github.com/user-attachments/assets/dc35f55f-d236-4e22-a0d7-01597a626af1" />
+<img width="540" height="540" alt="omnoculus_evil" src="https://github.com/user-attachments/assets/d2662d2f-31cb-4ed9-9528-1f71e2185b43" />
 
 ### Malabane
+<img width="540" height="540" alt="malabane_good" src="https://github.com/user-attachments/assets/e551cdbd-ba0e-4a57-92ed-f6f3e1357191" />
+<img width="540" height="540" alt="malabane_evil" src="https://github.com/user-attachments/assets/ed0028fe-f9f0-48fd-9a80-2d2984d3c471" />
 
 ### Society
+<img width="540" height="540" alt="society_homebrewlist" src="https://github.com/user-attachments/assets/b7f4f5fb-48b5-4b80-beb9-3a66d22af708" />
 
 ### Necrodeux
+<img width="540" height="540" alt="necrodeux_good" src="https://github.com/user-attachments/assets/d5904f3e-44c3-4b43-99f4-f5084e9233cf" />
+<img width="540" height="540" alt="necrodeux_evil" src="https://github.com/user-attachments/assets/4ee4daff-b2b6-476b-b1be-f556b748c4ab" />
 
 ## Travellers
 ### Architect
