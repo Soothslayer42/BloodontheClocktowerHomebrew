@@ -404,6 +404,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ## Demons
 ### Roulette
+<img width="540" height="540" alt="roulette_good" src="https://github.com/user-attachments/assets/ba1972e1-0036-4be0-bfba-850d054ed211" />
+<img width="540" height="540" alt="roulette_evil" src="https://github.com/user-attachments/assets/1b0c7bcb-2120-405a-b7d9-5c23dc87037b" />
 
 ### Lonely God
 <img width="540" height="540" alt="lonely_god_good" src="https://github.com/user-attachments/assets/987c2523-ccad-4f18-ae69-e1d6e1797460" />
