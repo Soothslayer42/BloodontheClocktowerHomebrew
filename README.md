@@ -1,4 +1,4 @@
-<img width="540" height="540" alt="necrodeux_evil" src="https://github.com/user-attachments/assets/3127e792-f769-4c4d-959d-34741832d658" /><img width="540" height="540" alt="omnoculus_evil" src="https://github.com/user-attachments/assets/6de25cbe-7b6c-4042-a9af-7f5306d3c5fe" /># BloodontheClocktowerHomebrew
+# BloodontheClocktowerHomebrew
 icon generator settings: border size 7 pixels, output size 100
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
