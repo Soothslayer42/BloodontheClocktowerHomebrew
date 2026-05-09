@@ -432,10 +432,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="vidarr_evil" src="https://github.com/user-attachments/assets/17601d49-56e9-4552-8a2f-1b29bd50ad90" />
 
 ### Kurs-Haal
-<img width="540" height="540" alt="kurs_haal_good" src="https://github.com/user-attachments/assets/ba887e45-92d8-4a59-91c9-f47fcccda235" />
-<img width="540" height="540" alt="kurs_haal_evil" src="https://github.com/user-attachments/assets/4d4e4f8d-9643-451b-9156-2ec4d28cf7ca" />
-<img width="1080" height="1080" alt="kurs-haal_evil_TIR_VERSION" src="https://github.com/user-attachments/assets/f503e968-af17-4d8c-b5a9-5d95cce356f0" />
-<img width="540" height="540" alt="kurs_haal_evil_FINALFINALFINAL" src="https://github.com/user-attachments/assets/7d192d3b-08af-4cd2-ab17-91db04a51e0e" />
+<img width="540" height="540" alt="kurs_haal_good" src="https://github.com/user-attachments/assets/03f3fdc9-5c6a-4685-ae8f-e4a518f4fa19" />
+<img width="540" height="540" alt="kurs_haal_evil" src="https://github.com/user-attachments/assets/7d192d3b-08af-4cd2-ab17-91db04a51e0e" />
 
 ### Frak-Tuul
 <img width="540" height="540" alt="frak-tuul_good" src="https://github.com/user-attachments/assets/a9dfaef4-57e2-4c67-9f96-554eaee978df" />
