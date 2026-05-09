@@ -475,7 +475,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="malabane_evil" src="https://github.com/user-attachments/assets/ed0028fe-f9f0-48fd-9a80-2d2984d3c471" />
 
 ### Society
-<img width="540" height="540" alt="society_homebrewlist" src="https://github.com/user-attachments/assets/b7f4f5fb-48b5-4b80-beb9-3a66d22af708" />
+<img width="540" height="540" alt="society_evil" src="https://github.com/user-attachments/assets/b7f4f5fb-48b5-4b80-beb9-3a66d22af708" />
 
 ### Necrodeux
 <img width="540" height="540" alt="necrodeux_good" src="https://github.com/user-attachments/assets/d5904f3e-44c3-4b43-99f4-f5084e9233cf" />
