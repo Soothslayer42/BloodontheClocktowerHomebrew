@@ -166,6 +166,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="valet_good" src="https://github.com/user-attachments/assets/6f5195dc-7b90-49fd-9c10-abdbcfab83ca" />
 <img width="100" height="100" alt="valet_evil" src="https://github.com/user-attachments/assets/8cb38a35-de23-4dfb-b4ca-6668481732b6" />
 
+### Steeplechaser
+<img width="540" height="540" alt="steeplechaser_good" src="https://github.com/user-attachments/assets/33e19318-784f-44ad-9ad8-604ac172fb1d" />
+<img width="540" height="540" alt="steeplechaser_evil" src="https://github.com/user-attachments/assets/41309019-2bee-428c-b886-62db6d129b6c" />
+
 ### Valleywalker
 <img width="100" height="100" alt="valleywalker_good" src="https://github.com/user-attachments/assets/4c92a8be-b7e7-4fce-a197-bdf6bad40cbd" />
 <img width="100" height="100" alt="valleywalker_evil" src="https://github.com/user-attachments/assets/b400d90a-4c8e-4897-9a97-e2604e3919fe" />
