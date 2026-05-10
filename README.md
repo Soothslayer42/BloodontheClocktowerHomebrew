@@ -221,6 +221,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="bellfounder_good" src="https://github.com/user-attachments/assets/8a076e74-4337-48bf-9a08-3405b6c1040a" />
 <img width="100" height="100" alt="bellfounder_evil" src="https://github.com/user-attachments/assets/247e827a-fb17-4d13-a856-6d9148765334" />
 
+## Gymnast
+<img width="540" height="540" alt="gymnast_good" src="https://github.com/user-attachments/assets/bab6b45f-d9e7-4014-a087-27d93cdba930" />
+<img width="540" height="540" alt="gymnast_evil" src="https://github.com/user-attachments/assets/e8886656-19e3-439d-b084-21f0157c2511" />
+
 ### Chamberlain
 <img width="100" height="100" alt="chamberlain_good" src="https://github.com/user-attachments/assets/8cf9bee8-ce9e-46b0-ad1a-aba141c9471c" />
 <img width="100" height="100" alt="chamberlain_evil" src="https://github.com/user-attachments/assets/ea6a3b74-636a-4aa4-9972-28da3da2a6d6" />
