@@ -209,6 +209,9 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="sabreur_good" src="https://github.com/user-attachments/assets/22e8cb25-eb1f-40e0-b565-42f6acd199d4" />
 <img width="100" height="100" alt="sabreur_evil" src="https://github.com/user-attachments/assets/8472ed5e-be59-4d67-8f2c-2c3f83625b6c" />
 
+### Barnstormer
+<img width="500" height="500" alt="barnstormer_good_TIR" src="https://github.com/user-attachments/assets/d49d0acf-181a-4200-8028-a87046ae81a5" />
+
 ### Ensign
 <img width="100" height="100" alt="ensign_good" src="https://github.com/user-attachments/assets/b262e9ee-25df-4d30-8953-773ce540efea" />
 <img width="100" height="100" alt="ensign_evil" src="https://github.com/user-attachments/assets/ab3578b2-990f-4396-b2c5-ff39b6f0b9b5" />
@@ -397,6 +400,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Morningstar
 <img width="100" height="100" alt="morningstar_good" src="https://github.com/user-attachments/assets/f8dcc154-fb3d-450d-8a5e-288b813138e1" />
 <img width="100" height="100" alt="morningstar_evil" src="https://github.com/user-attachments/assets/47f36130-f33b-41ee-ad50-823d0919b0ce" />
+
+### Aponia
+<img width="540" height="540" alt="aponia_good" src="https://github.com/user-attachments/assets/ab22841f-d97a-4bb2-bf3b-0b47ce6a41e4" />
+<img width="540" height="540" alt="aponia_evil" src="https://github.com/user-attachments/assets/10cfbb2a-bbbe-473d-965f-b01bf053d9f0" />
 
 ### Kryptoloa
 <img width="100" height="100" alt="kryptoloa_good" src="https://github.com/user-attachments/assets/0c05541f-f5a1-4193-8fa7-10a535abfa66" />
