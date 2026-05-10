@@ -210,7 +210,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="sabreur_evil" src="https://github.com/user-attachments/assets/8472ed5e-be59-4d67-8f2c-2c3f83625b6c" />
 
 ### Barnstormer
-<img width="500" height="500" alt="barnstormer_good_TIR" src="https://github.com/user-attachments/assets/d49d0acf-181a-4200-8028-a87046ae81a5" />
+<img width="540" height="540" alt="barnstormer_good_0 80" src="https://github.com/user-attachments/assets/484268e1-0c05-4b8b-bbb2-a171a5a403ab" />
+<img width="540" height="540" alt="barnstormer_evil_0 80" src="https://github.com/user-attachments/assets/0bb64fe4-8ee1-4855-a200-6c93ec199356" />
 
 ### Ensign
 <img width="100" height="100" alt="ensign_good" src="https://github.com/user-attachments/assets/b262e9ee-25df-4d30-8953-773ce540efea" />
