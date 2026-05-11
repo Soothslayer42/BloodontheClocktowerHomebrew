@@ -404,7 +404,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ### Aponia
 <img width="540" height="540" alt="aponia_good" src="https://github.com/user-attachments/assets/ab22841f-d97a-4bb2-bf3b-0b47ce6a41e4" />
-<img width="540" height="540" alt="aponia_evil" src="https://github.com/user-attachments/assets/10cfbb2a-bbbe-473d-965f-b01bf053d9f0" />
+<img width="540" height="540" alt="aponia_evil" src="https://github.com/user-attachments/assets/8370e6c4-ad94-4334-ae5b-baecbf603134" />
+
 
 ### Kryptoloa
 <img width="100" height="100" alt="kryptoloa_good" src="https://github.com/user-attachments/assets/0c05541f-f5a1-4193-8fa7-10a535abfa66" />
