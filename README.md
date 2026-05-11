@@ -110,6 +110,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="firefighter_good" src="https://github.com/user-attachments/assets/27237cfc-6382-4a09-9a7f-5e8510f391b7" />
 <img width="100" height="100" alt="firefighter_evil" src="https://github.com/user-attachments/assets/73287c31-89c1-4c2f-af07-5f5b660e5335" />
 
+###
+<img width="540" height="540" alt="fire_eater_good" src="https://github.com/user-attachments/assets/69989a27-b4e7-4b98-9146-791f3b209719" />
+<img width="540" height="540" alt="fire_eater_evil" src="https://github.com/user-attachments/assets/a36afcf9-e015-427a-bf8a-81925206df47" />
+
 ### Bibliosoph
 <img width="100" height="100" alt="bibliosoph_good" src="https://github.com/user-attachments/assets/15089427-472f-4565-b988-e10ec42455ef" />
 <img width="100" height="100" alt="bibliosoph_evil" src="https://github.com/user-attachments/assets/82f9e7d6-fa2b-4767-b9b0-b6435aab56ea" />
