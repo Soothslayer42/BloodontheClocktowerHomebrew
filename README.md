@@ -66,6 +66,9 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="prohibitionist_good" src="https://github.com/user-attachments/assets/45ec2b7e-13a1-4095-805f-c8674e86dc54" />
 <img width="100" height="100" alt="prohibitionist_evil" src="https://github.com/user-attachments/assets/e06e8987-7815-4d31-8d14-18d70d4e0359" />
 
+### Ice Cutter
+<img width="540" height="540" alt="ice_cutter_good" src="https://github.com/user-attachments/assets/7aba9c3a-7775-427b-aac8-06e97e8ebfdc" />
+
 ### Executrix
 <img width="100" height="100" alt="executrix_good" src="https://github.com/user-attachments/assets/f95e02a8-4a34-4b55-ab6d-a8125a540b78" />
 <img width="100" height="100" alt="executrix_evil" src="https://github.com/user-attachments/assets/171bb74d-ef41-4c33-994c-9df55f8376b4" />
