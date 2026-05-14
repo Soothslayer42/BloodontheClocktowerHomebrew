@@ -419,7 +419,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="kryptoloa_evil" src="https://github.com/user-attachments/assets/6f900aa5-5b16-4c07-9df9-206b944916ba" />
 
 ### Telos
-<img width="540" height="540" alt="telos_evil_3" src="https://github.com/user-attachments/assets/18c60a51-742a-458b-973f-4aa684e732e5" />
+<img width="540" height="540" alt="telos_good" src="https://github.com/user-attachments/assets/e47ea8fc-ef96-4bd8-a0aa-b7124922e3cd" />
+<img width="540" height="540" alt="telos_evil" src="https://github.com/user-attachments/assets/18c60a51-742a-458b-973f-4aa684e732e5" />
 
 ### Yaldabaoth
 <img width="100" height="100" alt="yaldabaoth_good" src="https://github.com/user-attachments/assets/43f2de33-9e43-4e91-8879-a3122b05e587" />
