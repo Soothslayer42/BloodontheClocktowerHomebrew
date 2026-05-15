@@ -146,6 +146,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="aeronaut_good" src="https://github.com/user-attachments/assets/db5cd59a-77a4-407a-bbf3-85f9aaa4e39c" />
 <img width="100" height="100" alt="aeronaut_evil" src="https://github.com/user-attachments/assets/9da8beac-96fa-4b5d-860f-972cbeed7a4d" />
 
+### Schlimazel
+<img width="540" height="540" alt="schlimazel_good" src="https://github.com/user-attachments/assets/f014cec9-5616-4306-a269-f5570ffbc337" />
+<img width="540" height="540" alt="schlimazel_evil" src="https://github.com/user-attachments/assets/c43820ed-8bf9-4971-adab-54d8849b9a2e" />
+
 ### Brigadier
 <img width="100" height="100" alt="brigadier_good" src="https://github.com/user-attachments/assets/ab19ead1-a37b-4295-8dd2-4e0b9d6aa479" />
 <img width="100" height="100" alt="brigadier_evil" src="https://github.com/user-attachments/assets/df51200f-de4e-4642-9cf4-a62aa6b7aae5" />
@@ -309,6 +313,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Neophyte
 <img width="100" height="100" alt="neophyte_good" src="https://github.com/user-attachments/assets/6bf454eb-0a8c-48aa-92c1-2a435378aef0" />
 <img width="100" height="100" alt="neophyte_evil" src="https://github.com/user-attachments/assets/56439d1a-c4dd-473b-be2e-a2664846ca62" />
+
+### Schlemiel
+<img width="540" height="540" alt="schlemiel_good" src="https://github.com/user-attachments/assets/e4bebd19-f790-404b-bf48-91c281b2f08b" />
+<img width="540" height="540" alt="schlemiel_evil" src="https://github.com/user-attachments/assets/510ad8f4-703d-43b6-a1fd-3be8e628fc89" />
 
 ### Tyrant
 <img width="100" height="100" alt="tyrant_good" src="https://github.com/user-attachments/assets/504fc936-719d-4c24-a1d7-5ea5dded2a45" />
