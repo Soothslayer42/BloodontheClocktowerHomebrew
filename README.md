@@ -257,6 +257,9 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="hussar_good" src="https://github.com/user-attachments/assets/e28a75d7-e88a-4b8b-952a-7acbb916803a" />
 <img width="100" height="100" alt="hussar_evil" src="https://github.com/user-attachments/assets/7ee278b3-03ff-4ccd-9be2-9b1cfebd39dd" />
 
+### Attaché
+<img width="540" height="540" alt="attaché_good" src="https://github.com/user-attachments/assets/6218bd20-f15c-4c26-8747-3136b6fe4efb" />
+
 ### Friar
 <img width="100" height="100" alt="friar_good" src="https://github.com/user-attachments/assets/7b1fc3fd-ace8-4d61-96d1-e5f7f877a33b" />
 <img width="100" height="100" alt="friar_evil" src="https://github.com/user-attachments/assets/d2b3332f-3875-4748-906e-67320bbbdc56" />
