@@ -3,8 +3,8 @@ icon generator settings: border size 7 pixels, output size 100
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
 ### Coach
-<img width="540" height="540" alt="coach_good" src="https://github.com/user-attachments/assets/9f00dbbb-415b-4b60-849a-3c00fe6b8231" />
-<img width="540" height="540" alt="coach_evil" src="https://github.com/user-attachments/assets/b17cabe8-7070-461c-9021-25d839ba7a6c" />
+<img width="100" height="100" alt="coach_good" src="https://github.com/user-attachments/assets/9f00dbbb-415b-4b60-849a-3c00fe6b8231" />
+<img width="100" height="100" alt="coach_evil" src="https://github.com/user-attachments/assets/b17cabe8-7070-461c-9021-25d839ba7a6c" />
 
 ### Provost
 <img width="100" height="100" alt="provost_good" src="https://github.com/user-attachments/assets/050acc3f-3122-4816-9522-7c9646e41ea3" />
@@ -441,6 +441,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Apollyon
 <img width="100" height="100" alt="apollyon_good" src="https://github.com/user-attachments/assets/677f80bc-8b0e-47ab-98f6-b537044cd002" />
 <img width="100" height="100" alt="apollyon_evil" src="https://github.com/user-attachments/assets/4b6b6dcf-c94a-4ebc-9503-dda489e5a7bd" />
+
+### Sycorax
+<img width="540" height="540" alt="sycorax_good" src="https://github.com/user-attachments/assets/2666261f-c8ae-4cb1-8711-d524117e65f6" />
+<img width="540" height="540" alt="sycorax_evil" src="https://github.com/user-attachments/assets/a4c70e0c-2677-4a85-bb46-3ed659a8b1a5" />
 
 ### Dioskouroi
 <img width="100" height="100" alt="dioskouroi_good" src="https://github.com/user-attachments/assets/53a843d0-3c16-4433-b5b0-7ed436b38526" />
