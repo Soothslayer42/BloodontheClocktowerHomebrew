@@ -2,6 +2,10 @@
 icon generator settings: border size 7 pixels, output size 100
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
+### Coach
+<img width="540" height="540" alt="coach_good" src="https://github.com/user-attachments/assets/9f00dbbb-415b-4b60-849a-3c00fe6b8231" />
+<img width="540" height="540" alt="coach_evil" src="https://github.com/user-attachments/assets/b17cabe8-7070-461c-9021-25d839ba7a6c" />
+
 ### Provost
 <img width="100" height="100" alt="provost_good" src="https://github.com/user-attachments/assets/050acc3f-3122-4816-9522-7c9646e41ea3" />
 <img width="100" height="100" alt="provost_evil" src="https://github.com/user-attachments/assets/37553b40-26a7-47cf-bcc5-8041d970f936" />
