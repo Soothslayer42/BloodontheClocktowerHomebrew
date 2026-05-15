@@ -149,6 +149,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Schlimazel
 <img width="540" height="540" alt="schlimazel_good" src="https://github.com/user-attachments/assets/1251b44f-692c-40c9-aa8e-317ccf7bdd1d" />
 <img width="540" height="540" alt="schlimazel_evil" src="https://github.com/user-attachments/assets/9af6cc69-ac9e-4de3-a8f0-56e3f89b12c1" />
+<img width="540" height="540" alt="schlimazel_good_BIGGER" src="https://github.com/user-attachments/assets/10da6618-1afb-405a-9999-b9b2f807e0e2" />
 
 ### Brigadier
 <img width="100" height="100" alt="brigadier_good" src="https://github.com/user-attachments/assets/ab19ead1-a37b-4295-8dd2-4e0b9d6aa479" />
