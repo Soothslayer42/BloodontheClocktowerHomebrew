@@ -110,7 +110,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="firefighter_good" src="https://github.com/user-attachments/assets/27237cfc-6382-4a09-9a7f-5e8510f391b7" />
 <img width="100" height="100" alt="firefighter_evil" src="https://github.com/user-attachments/assets/73287c31-89c1-4c2f-af07-5f5b660e5335" />
 
-###
+### Fire-Eater
 <img width="540" height="540" alt="fire_eater_good" src="https://github.com/user-attachments/assets/69989a27-b4e7-4b98-9146-791f3b209719" />
 <img width="540" height="540" alt="fire_eater_evil" src="https://github.com/user-attachments/assets/a36afcf9-e015-427a-bf8a-81925206df47" />
 
@@ -147,8 +147,8 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="aeronaut_evil" src="https://github.com/user-attachments/assets/9da8beac-96fa-4b5d-860f-972cbeed7a4d" />
 
 ### Schlimazel
-<img width="540" height="540" alt="schlimazel_good" src="https://github.com/user-attachments/assets/f014cec9-5616-4306-a269-f5570ffbc337" />
-<img width="540" height="540" alt="schlimazel_evil" src="https://github.com/user-attachments/assets/c43820ed-8bf9-4971-adab-54d8849b9a2e" />
+<img width="540" height="540" alt="schlimazel_good" src="https://github.com/user-attachments/assets/1251b44f-692c-40c9-aa8e-317ccf7bdd1d" />
+<img width="540" height="540" alt="schlimazel_evil" src="https://github.com/user-attachments/assets/9af6cc69-ac9e-4de3-a8f0-56e3f89b12c1" />
 
 ### Brigadier
 <img width="100" height="100" alt="brigadier_good" src="https://github.com/user-attachments/assets/ab19ead1-a37b-4295-8dd2-4e0b9d6aa479" />
