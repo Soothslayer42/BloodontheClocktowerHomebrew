@@ -86,6 +86,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="wainwright_good" src="https://github.com/user-attachments/assets/e5e4af0f-c21d-4db8-90aa-ee2c0881c0ce" />
 <img width="100" height="100" alt="wainwright_evil" src="https://github.com/user-attachments/assets/8ea5268f-e446-4c3a-9464-ecdb419c2563" />
 
+### Taffymaker
+<img width="540" height="540" alt="taffymaker_good" src="https://github.com/user-attachments/assets/fe41b805-8f73-4f8f-89c5-b5010a7520b1" />
+<img width="540" height="540" alt="taffymaker_evil" src="https://github.com/user-attachments/assets/a24cc253-d5df-422e-a647-0181516563ff" />
+
 ### Psephologist
 <img width="100" height="100" alt="psephologist_good" src="https://github.com/user-attachments/assets/23c90b84-0b7d-4d0e-abcb-1582090a2d70" />
 <img width="100" height="100" alt="psephologist_evil" src="https://github.com/user-attachments/assets/a09004f3-013c-4ba7-abe7-ece2e4c86c8f" />
@@ -359,6 +363,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="hemomancer_good" src="https://github.com/user-attachments/assets/117a7532-30f5-4d60-9aa3-a1ca73d2b0c7" />
 <img width="100" height="100" alt="hemomancer_evil" src="https://github.com/user-attachments/assets/fe78ee81-fbfa-4bac-8724-db14251173e9" />
 
+### Mahoraga
+<img width="540" height="540" alt="mahoraga_good" src="https://github.com/user-attachments/assets/337a9ce3-5f0d-4d4e-ba8f-5241a3ed8467" />
+<img width="540" height="540" alt="mahoraga_evil" src="https://github.com/user-attachments/assets/43427e3d-1a96-4458-b0a0-ffcfa8d2d7f3" />
+
 ### Paranoia
 <img width="100" height="100" alt="paranoia_good" src="https://github.com/user-attachments/assets/f157cc65-084f-4855-9236-b89909ec2dc9" />
 <img width="100" height="100" alt="paranoia_evil" src="https://github.com/user-attachments/assets/6c078cd0-8744-41bb-926b-200c60e6b341" />
@@ -378,6 +386,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 ### Ambrosia
 <img width="100" height="100" alt="ambrosia_good" src="https://github.com/user-attachments/assets/c95490de-4f8a-4e12-88ed-670c1b9530e4" />
 <img width="100" height="100" alt="ambrosia_evil" src="https://github.com/user-attachments/assets/6ec78a3d-9246-48a2-a654-f2505363e045" />
+
+### Killjoy
+<img width="540" height="540" alt="killjoy_good" src="https://github.com/user-attachments/assets/95f83d18-d744-46ad-aa25-1eccd59b0928" />
+<img width="540" height="540" alt="killjoy_evil" src="https://github.com/user-attachments/assets/1ef99e23-e411-4bbc-b692-4eda6ee28c88" />
 
 ### Jörmungandr
 <img width="100" height="100" alt="jormungandr_good" src="https://github.com/user-attachments/assets/24f6325b-1445-4620-a708-209817976e11" />
