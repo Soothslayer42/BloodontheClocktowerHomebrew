@@ -287,6 +287,7 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 
 ### Bride
 <img width="540" height="540" alt="bride_good" src="https://github.com/user-attachments/assets/cef9f980-a9e1-40cd-953e-646530b358c9" />
+<img width="540" height="540" alt="bride_evil" src="https://github.com/user-attachments/assets/ddaaafc7-8a0f-4626-b8a1-9373ac0f217d" />
 
 ## Outsiders
 ### Hooligan
