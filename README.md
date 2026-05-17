@@ -285,6 +285,9 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="540" height="540" alt="paratrooper_good" src="https://github.com/user-attachments/assets/1560447b-f703-48d8-9404-4e7bbc10734a" />
 <img width="540" height="540" alt="paratrooper_evil" src="https://github.com/user-attachments/assets/f90844e2-7d71-4bcb-bdfc-4daab3fecc90" />
 
+### Bride
+<img width="540" height="540" alt="bride_good" src="https://github.com/user-attachments/assets/cef9f980-a9e1-40cd-953e-646530b358c9" />
+
 ## Outsiders
 ### Hooligan
 <img width="100" height="100" alt="hooligan_good" src="https://github.com/user-attachments/assets/21d85a3a-9a09-4dc2-9c98-500ed1007a7c" />
