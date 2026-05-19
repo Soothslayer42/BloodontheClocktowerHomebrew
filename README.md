@@ -350,6 +350,10 @@ Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset 
 <img width="100" height="100" alt="star-crossed_good" src="https://github.com/user-attachments/assets/0cbaebd1-add8-472c-ad42-2348d9b4a00d" />
 <img width="100" height="100" alt="star-crossed_evil" src="https://github.com/user-attachments/assets/d261cfdd-af03-4d5a-954b-13d490a3e3d6" />
 
+### Apparatchik
+<img width="540" height="540" alt="apparatchik_good" src="https://github.com/user-attachments/assets/401e249c-19e7-495d-b7e3-a6f2b64a6935" />
+<img width="540" height="540" alt="apparatchik_evil" src="https://github.com/user-attachments/assets/deae8b37-f6f8-4322-9056-78c22a06508f" />
+
 ## Minions
 ### Handler
 <img width="100" height="100" alt="handler_good" src="https://github.com/user-attachments/assets/400d90e4-a56d-434c-b1a6-54b8d56bf2ed" />
