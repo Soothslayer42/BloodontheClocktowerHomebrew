@@ -1,5 +1,5 @@
 # BloodontheClocktowerHomebrew
-icon generator settings: border size 7 pixels, output size 100
+icon generator settings: border size 7 pixels, output size 540
 Bloodstar settings: No crop, size 1.00, Drop Shadow size 16, offset X 5, offset Y 7, Opacity 0.25
 ## Townsfolk
 ### Coach
