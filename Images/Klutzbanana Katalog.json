@@ -1,0 +1,3792 @@
+[
+  {
+  "id": "coach_sooth",
+  "name": "Coach",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/coach_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/coach_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 58.1,
+  "firstNightReminder": "Point to the player marked *KNOW*.",
+  "reminders": [
+    "Know"
+  ],
+  "setup": false,
+  "ability": "You start knowing 1 player who is likely to cause you to lose.",
+  "flavor": "It's alright buddy, just trust in the process and you're gonna do great things. Now show me that curveball again."
+ },
+ {
+  "id": "provost_sooth",
+  "name": "Provost",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/provost_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/provost_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 46.8,
+  "firstNightReminder": "Give a finger signal.",
+  "reminders": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+    ],
+  "setup": false,
+  "ability": "You start knowing how many editions in-play characters are from.",
+  "flavor": "Equity and inclusion practices are of the highest priority here at Ravenswood Bluff University. I see to it that I know the story of every student admitted here such that they can be provided with the resources necessary to succeed."
+ },
+ {
+  "id": "daredevil_sooth",
+  "name": "Daredevil",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/daredevil_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/daredevil_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 59.1,
+  "firstNightReminder": "Wake the Daredevil. Point to 2 players. Mark them each with a *VOLUNTEER* reminder.",
+  "otherNight": 67.1,
+  "otherNightReminder": "The Volunteers might die.",
+  "reminders": [
+  "Volunteer",
+  "Volunteer"
+  ],
+  "setup": false,
+  "ability": "You start knowing 2 Townsfolk players. They might die at any time.",
+  "flavor": "Yeah all you boys have to do is hold those torches up as high as you can, I'll handle the rest."
+ },
+ {
+  "id": "scion_sooth",
+  "name": "Scion",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/scion_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/scion_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 43.09,
+  "firstNightReminder": "Wake the Scion. Point to 2 players. Mark them each with a *PARENT* reminder.",
+  "reminders": [
+    "Parent",
+    "Parent",
+    "Inheritance"
+  ],
+  "setup": false,
+  "ability": "You start knowing 2 players. If both are dead, your vote counts triple.",
+  "flavor": "Today we honor the legacy my mother and father left behind. A legacy of gold, silver, and platinum. All left for me."
+ },
+ {
+  "id": "polygraphist_sooth",
+  "name": "Polygraphist",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/polygraphist_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/polygraphist_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 59.2,
+  "firstNightReminder": "Point to both the *Don't Trust* and *Trust* players.",
+  "reminders": [
+  "Don't Trust",
+  "Trust"
+  ],
+  "setup": false,
+  "ability": "You start knowing you likely shouldn't trust 1 of 2 players’ info this game.",
+  "flavor": "Okay... either you're lying or you're nervous because an officer has been screaming at you for 10 minutes, I'm not sure."
+ },
+ {
+  "id": "samurai_sooth",
+  "name": "Samurai",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/samurai_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/samurai_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 23.7,
+  "firstNightReminder": "Wake the Samurai. Using paper or a phone, show them their rule. Put them to sleep. Then wake the Minions & show the same rule. If a Minion breaks the rule, mark them with the Dishonorable reminder. If a Minion is marked with the Dishonorable reminder, wake the Samurai & point to that player.",
+  "otherNight": 10.7,
+  "otherNightReminder": "Whenever a Minion breaks the rule, mark them with the Dishonorable reminder. If a Minion is marked with the Dishonorable reminder, wake the Samurai immediately & point to that player.",
+  "reminders": [
+  "Dishonorable",
+  "Dishonorable",
+  "Dishonorable",
+  "Dishonorable"
+  ],
+  "setup": false,
+  "ability": "You & Minions start knowing a rule. If a Minion breaks this rule, you learn them.",
+  "flavor": "Honor does not win battles. But battles fought without honor are not worth winning."
+ },
+ {
+  "id": "seneschal_sooth",
+  "name": "Seneschal",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/seneschal_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/seneschal_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 46.9,
+  "firstNightReminder": "Show the Seneschal the lid of the correct edition box. If the particular edition is a homebrew collection, write the name down on a piece of paper or a phone & show it to them.",
+  "reminders": [
+    "TB",
+    "BMR",
+    "S&V",
+    "Carousel"
+    ],
+  "setup": false,
+  "ability": "You start knowing the highest number of in-play characters are from a particular edition.",
+  "flavor": "Interesting, I was told the invited guests for the Cotillion were supposed to be royalty from all around the globe. But the names on my registry here seem to all share a certain language originating from the Eastern Steppes..."
+ },
+ {
+    "id": "enchantress_sooth",
+    "name": "Enchantress",
+    "edition": "soothsymphony",
+    "image": [
+      "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/enchantress_good.png",
+      "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/enchantress_evil.png"
+    ],
+    "team": "townsfolk",
+    "firstNight": 23.5,
+    "firstNightReminder": "Wake the Enchantress. Show them a Minion token. If that Minion is in-play, mark them with the *CHARMED* reminder.",
+    "reminders": [
+      "Charmed"
+    ],
+    "setup": false,
+    "ability": "You start knowing one Minion character. If they are in-play, they are drunk while you live.",
+    "flavor": "You look so lovely tonight, darling. Why not stay a little longer?"
+  },
+  {
+    "id": "chiffonier_sooth",
+    "name": "Chiffonier",
+    "edition": "soothsymphony",
+    "image": [
+      "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chiffonier_good.png",
+      "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chiffonier_evil.png"
+    ],
+    "team": "townsfolk",
+    "firstNight": 59.2,
+    "firstNightReminder": "Point to the 2 players marked *OUTCAST*.",
+    "reminders": [
+      "Outcast",
+      "Outcast",
+      "About to Die"
+    ],
+    "setup": false,
+    "ability": "You start knowing 2 good players. Executions from their nominations fail, even if you're dead.",
+    "flavor": "You might not be able to see the people down here in the streets from your ivory tower, Mr. Morozov, but they're well-meaning and just trying to survive. You discard us now, but just wait until the next recession hits and you'll be sifting for nails like everyone else."
+  },
+  {
+  "id": "chauffeur_sooth",
+  "name": "Chauffeur",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chauffeur_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chauffeur_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 54.2,
+  "firstNightReminder": "Point to the player marked *PASSENGER*.",
+  "otherNight": 55.08,
+  "otherNightReminder": "If the Chauffeur or the player marked *PASSENGER* would be killed by a good ability, mark the Chauffeur with *WAKE*. Then wake the Chauffeur & show them the *THIS PLAYER SELECTED YOU* & the Chauffeur tokens. Remove the *WAKE* reminder.",
+  "reminders": [
+    "Passenger",
+    "Wake"
+  ],
+  "setup": false,
+  "ability": "You start knowing a good player. If a good ability would kill you or them, instead you learn this.",
+  "flavor": "A good chauffeur always has an exit plan for danger."
+  },
+  {
+  "id": "bete_noire_sooth",
+  "name": "Bête Noire",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bete_noire_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bete_noire_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 54.3,
+  "firstNightReminder": "Point to the player marked *DEMONIZED* & show their character token.",
+  "reminders": [
+    "Demonized"
+  ],
+  "setup": false,
+  "ability": "You start knowing a good player & their character. They register as an evil Demon to good abilities, even if you're dead.",
+  "flavor": "Friends call me Betty. Or they would, if I had any."
+  },
+  {
+  "id": "perruquier_sooth",
+  "name": "Perruquier",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/perruquier_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/perruquier_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 54.1,
+  "firstNightReminder": "Wake the Perruquier. Show them an out-of-play good character token.",
+  "otherNight": 63.4,
+  "otherNightReminder": "If the Perruquier has not used their ability: The Perruquier either shakes their head no, or chooses a player. If that player is a Townsfolk, they are now the learned character.",
+  "reminders": [
+  "No Ability"
+  ],
+  "setup": false,
+  "ability": "You start knowing an out-of-play good character. Once per game, at night*, choose a player: if a Townsfolk, they become that character.",
+  "flavor": "Never look back, darling! It distracts from the now."
+ },
+ {
+  "id": "safecracker_sooth",
+  "name": "Safecracker",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/safecracker_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/safecracker_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 51.5,
+  "firstNightReminder": "Wake the Safecracker. Show them 3 character tokens. Mark players with in-play characters with *KNOW*. If they guess right, point to an evil player & show them 3 new tokens.",
+  "otherNight": 71.5,
+  "otherNightReminder": "Wake the Safecracker. If they guess correctly, point to an evil player & show them 3 new tokens.",
+  "reminders": [
+  "Know",
+  "Know",
+  "Know"
+  ],
+  "setup": false,
+  "ability": "You start knowing 3 characters. Each night, guess the steps to each (0 if not-in-play): if right, learn an evil player & another 3 characters.",
+  "flavor": "Alright, we can either do this the fun way or, if you brought the plastique, the really fun way."
+ },
+ {
+  "id": "bricklayer_sooth",
+  "name": "Bricklayer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bricklayer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bricklayer_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 11.1,
+  "firstNightReminder": "The Bricklayer chooses 2 players. Mark each with a *SAFE* reminder token.",
+  "otherNight": 8.22,
+  "otherNightReminder": "The Bricklayer chooses 2 players. Mark each with a *SAFE* reminder token.",
+  "reminders": [
+    "Safe",
+    "Safe"
+  ],
+  "setup": false,
+  "ability": "Each night, choose 2 players: if they have no ability they are safe from evil players.",
+  "flavor": "Each brick on their own is weak. Some men can even break them with their bare hands. But if they stand together and stick tight, they are far stronger than the sum of their parts. Son, I'm not talking about bricks."
+ },
+ {
+  "id": "sadhu_sooth",
+  "name": "Sadhu",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/sadhu_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/sadhu_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 20.1,
+  "firstNightReminder": "Show a unique not-in-play character token.",
+  "otherNight": 82.1,
+  "otherNightReminder": "Show a unique not-in-play character token.",
+  "reminders": [
+    "Was",
+    "Was",
+    "Was"
+  ],
+  "setup": false,
+  "ability": "Each night, learn who you are. You register as a unique not-in-play character to abilities until you can't.",
+  "flavor": "To study the self is to forget the self. To forget the self is to be awakened to all things."
+ },
+ {
+  "id": "milkman_sooth",
+  "name": "Milkman",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/milkman_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/milkman_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 61.6,
+  "firstNightReminder": "The Milkman chooses a player. If they're a Townsfolk, point to the relevant character type(s) on the sheet or the relevant finger signal (1 for Townsfolk, 2 for Outsiders, etc.). If not, give false info.",
+  "otherNight": 80.6,
+  "otherNightReminder": "The Milkman chooses a player. If they're a Townsfolk, point to the relevant character type(s) on the sheet or the relevant finger signal (1 for Townsfolk, 2 for Outsiders, etc.). If not, give false info.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each night, choose a player: if a Townsfolk, learn their neighbors' character types & learn false info if not.",
+  "flavor": "Yes I'm having sex with your mother. And your father."
+ },
+ {
+  "id": "solicitor_sooth",
+  "name": "Solicitor",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/solicitor_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/solicitor_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 68.9,
+  "firstNightReminder": "The Solicitor chooses a character. Point to a player.",
+  "otherNight": 87.9,
+  "otherNightReminder": "The Solicitor chooses a character. Point to a player.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each night, choose a character: learn a player with whom a player with that character would want to speak to tomorrow.",
+  "flavor": "Ma'am, would you just give us a second of your time? We'd like to interest you in investing into this once-in-a-lifetime opportunity."
+ },
+ {
+  "id": "attorney_sooth",
+  "name": "Attorney",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/attorney_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/attorney_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 61.1,
+  "firstNightReminder": "Point to the player marked *CLIENT*.",
+  "otherNight": 80.1,
+  "otherNightReminder": "If a player is marked *Defended*, point to the word Townsfolk on the character sheet & then a Townsfolk player. Remove the *Defended* reminder. Then point to the new player marked *Client*.",
+  "reminders": [
+    "Client",
+    "Defended"
+  ],
+  "setup": false,
+  "ability": "Each night, learn a player: if they are 'about to die' tomorrow & aren't executed, learn a Townsfolk player that night.",
+  "flavor": "You saw that I was able to reduce Mr. Morozov's sentence from death by hanging to merely 6 months community service? Now imagine what I can do for someone who's actually innocent."
+ },
+ {
+  "id": "demographer_sooth",
+  "name": "Demographer",
+  "edition": "soothsymphony",
+  "image": [
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/demographer_good.png",
+    "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/demographer_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 61.2,
+  "firstNightReminder": "The Demographer chooses a player. If they have pointed to them before, prompt them to point again. Mark the chosen player with *CENSUS*.",
+  "otherNight": 80.2,
+  "otherNightReminder": "If the Demographer has died, wake them & give a finger signal for how many of each character type, in order, is marked with *CENSUS*. Otherwise, the Demographer chooses a player. If they have pointed to them before, prompt them to point again. Mark the chosen player with *CENSUS*.",
+  "reminders": [
+    "Census",
+    "Census",
+    "Census",
+    "Census",
+    "Census"
+  ],
+  "setup": false,
+  "ability": "Each night, choose a unique player (not yourself). When you die, tonight learn how many of each character type you chose.",
+  "flavor": "Would you describe yourself more as from Taiwan or from China? Don't worry, we aren't collecting your name."
+ },
+ {
+  "id": "cyclist_sooth",
+  "name": "Cyclist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/cyclist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/cyclist_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 61.5,
+  "firstNightReminder": "The Cyclist chooses a character. Give a finger signal.",
+  "otherNight": 80.5,
+  "otherNightReminder": "The Cyclist chooses a character. Give a finger signal.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each night, choose a good character: you learn how many character types sit between you & that character (arbitrary if not-in-play).",
+  "flavor": "As I raced through the town, I couldn't help but noticed the people in the crowd. An old woman washing her clothes, a humble man in a bespoke suit, and his boss, a mustachioed man with an incredible top hat."
+ },
+ {
+  "id": "ewerer_sooth",
+  "name": "Ewerer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/ewerer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/ewerer_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 30.1,
+  "firstNightReminder": "The Ewerer chooses a character they haven't yet. If in-play, mark that player with the *DRUNK* reminder. If not, mark the Ewerer with *DRUNK*.",
+  "otherNight": 15.1,
+  "otherNightReminder": "The Ewerer chooses a character they haven't yet. If in-play, mark that player with the *DRUNK* reminder. If not, mark the Ewerer with *DRUNK*.",
+  "reminders": [
+    "Drunk"
+  ],
+  "setup": false,
+  "ability": "Each night, choose a new character (not a Traveller): if in-play, they're drunk until dusk, if not-in-play, you're drunk from now on.",
+  "flavor": "Her Crimson Ladyship hasn't arrived yet? Then I don't see any reason not to take a tiny sip after all my hard labor."
+ },
+ {
+  "id": "reeve_sooth",
+  "name": "Reeve",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/reeve_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/reeve_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 61.4,
+  "firstNightReminder": "If you have not yet, mark each Reeve with 1 of the reminder tokens. They register as that type to abilities. Wake the Reeves one at a time to choose a player. Nod or shake your head.",
+  "otherNight": 80.4,
+  "otherNightReminder": "Wake the Reeves one at a time to choose a player. Nod or shake your head.",
+  "reminders": [
+    "Townsfolk",
+    "Outsider",
+    "Minion",
+    "Demon"
+  ],
+  "setup": true,
+  "ability": "Each night, choose a player: learn if you're the same character type. Each Reeve registers as a unique type to abilities. [+0 to +2 Reeves]",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-duplicate"
+    }
+  ],
+  "flavor": "And therfore this proverbe is seyd ful sooth, 'Hym thar nat wene wel that yvele dooth.' A gylour shal hymself bigyled be."
+ },
+ {
+  "id": "wharfinger_sooth",
+  "name": "Wharfinger",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/wharfinger_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/wharfinger_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 62.1,
+  "firstNightReminder": "Point clockwise or anticlockwise.",
+  "otherNight": 80.3,
+  "otherNightReminder": "Point clockwise or anticlockwise.",
+  "reminders": [
+  ],
+  "setup": true,
+  "ability": "Each night, learn the direction to your closest living Outsider. If equidistant or there are none, this info is arbitrary. [+0 or +1 Outsider]",
+  "flavor": "We're like a family here at the docks. That's why we scream at each other."
+ },
+ {
+  "id": "prohibitionist_sooth",
+  "name": "Prohibitionist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/prohibitionist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/prohibitionist_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 68.4,
+  "otherNightReminder": "If no players are drunk or poisoned, the Prohibitionist player dies.",
+  "reminders": [
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, if all living players are sober & healthy, you die.",
+  "flavor": "My work here is done."
+ },
+ {
+  "id": "ice_cutter_sooth",
+  "name": "Ice Cutter",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/ice_cutter_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/ice_cutter_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 55.1,
+  "otherNightReminder": "If 1 of the Ice Cutter's living neighbors is evil, mark their other neighbor *DEAD*.",
+  "reminders": [
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, if one of your living neighbors is evil, the other dies.",
+  "flavor": "Anything can happen on the ice, my friend. We must stay careful."
+ },
+ {
+  "id": "gastronomer_sooth",
+  "name": "Gastronomer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/gastronomer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/gastronomer_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 77.3,
+  "otherNightReminder": "Wake the Gastronomer. Point to a player.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each night*, learn a player who killed no one with their ability tonight.",
+  "flavor": "Your palette must be very refined to be dining on the cobbler's finest shoe leather."
+ },
+ {
+  "id": "executrix_sooth",
+  "name": "Executrix",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/executrix_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/executrix_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 73.2,
+  "otherNightReminder": "If a player was executed today, nod your head if they have exactly 1 living neighbor who is evil. Otherwise, shake your head.",
+  "reminders": [
+    "Executee"
+  ],
+  "setup": false,
+  "ability": "Each night*, learn if today's executee has exactly 1 evil living neighbor.",
+  "flavor": "It's the strangest thing; normally with most estates I handle, either both neighbors loved the recently deceased or both despised them. But this fellow? One neighbor has been throwing non-stop parties ever since they died & the other has been helping me track down their next of kin."
+ },
+ {
+  "id": "stickybeak_sooth",
+  "name": "Stickybeak",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/stickybeak_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/stickybeak_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 55.5,
+  "otherNightReminder": "The Stickybeak chooses a player. If they chose a Demon, mark one of their living neighbors as *DEAD*.",
+  "reminders": [
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: if the Demon, 1 of your living neighbors dies.",
+  "flavor": "C'mon! We'll just have ourselves a little look-see at Mr. Hayden's place tonight, just the two of us. It'll be late, no one will see us, you'll be fine. I have to know what he's been doing with all those winnings from the casino. What's the worst that can happen?"
+ },
+ {
+  "id": "wainwright_sooth",
+  "name": "Wainwright",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/wainwright_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/wainwright_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 85.2,
+  "otherNightReminder": "If the clockwise neighbor of the Wainwright is a Townsfolk, wake the new Wainwright player. Show the *YOU ARE* token & the Wainwright token. Put them to sleep. Then wake the former Wainwright player. Show the *YOU ARE* token & their new character token.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each night*, your clockwise neighbor, if a Townsfolk, swaps characters with you.",
+  "flavor": "Round and round we turn, / we hold each other's hands and / weave our lives in a circle. / The time has come, / the dance goes on."
+ },
+ {
+  "id": "osnard_sooth",
+  "name": "Osnard",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/osnard_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/osnard_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 77.47,
+  "otherNightReminder": "Wake the Osnard. Nod or shake your head.",
+  "reminders": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "setup": false,
+  "ability": "Each night*, learn if good abilities attacked less players than evil abilities tonight.",
+  "flavor": "Only a poor herdsman would be unaware of those who threaten his flock."
+ },
+ {
+  "id": "taffymaker_sooth",
+  "name": "Taffymaker",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/taffymaker_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/taffymaker_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 6.1,
+  "otherNightReminder": "1 player marked *CANDY EATEN* may be woken to use their ability a 2nd time immediately after using it.",
+  "reminders": [
+    "Candy Eaten",
+    "Candy Eaten",
+    "Candy Eaten"
+  ],
+  "setup": false,
+  "ability": "Each night*, 1 player you're mad is evil might be woken to use their ability a 2nd time.",
+  "flavor": "Of course I give my enemies candy, how else are they supposed to like me?"
+ },
+ {
+  "id": "lionheart_sooth",
+  "name": "Lionheart",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lionheart_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lionheart_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 67.57,
+  "otherNightReminder": "If a Townsfolk would die tonight, instead place a *DIES TONIGHT* reminder on an alive Lionheart. Place a shroud on each one marked *DIES TONIGHT*.",
+  "reminders": [
+    "Dies Tonight",
+    "Dies Tonight",
+    "Dies Tonight"
+  ],
+  "setup": false,
+  "ability": "Each night*, if another Townsfolk would die, a Lionheart dies instead. [+0 to +2 Lionhearts]",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-duplicate"
+    }
+  ],
+  "flavor": "Sire, I say, with pride, that my lord is the finest knight on earth and the most skilled to fight."
+ },
+ {
+  "id": "psephologist_sooth",
+  "name": "Psephologist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/psephologist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/psephologist_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 76.5,
+  "otherNightReminder": "Show the finger signal (0, 1, 2, etc.) according to the number of reminders.",
+  "reminders": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "setup": true,
+  "ability": "Each night*, you learn how many players nominated by Outsiders today are evil. [+1 Outsider]",
+  "flavor": "It's important to my research that we get better statistics about under-reported demographics like yours. It could be key to predicting the outcome of this election. Now tell me, what does the word 'sigma' mean to you?"
+ },
+ {
+  "id": "embalmer_sooth",
+  "name": "Embalmer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/embalmer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/embalmer_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 80.25,
+  "otherNightReminder": "If the Embalmer has died, wake them & give a finger signal for how many of each character type, in order, is marked with *EMBALMED*. Otherwise, the Embalmer chooses a dead player. If they have pointed to them before, prompt them to point again. Mark the chosen player with *EMBALMED*.",
+  "reminders": [
+    "Embalmed",
+    "Embalmed",
+    "Embalmed",
+    "Embalmed"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a new dead player. When you die, learn how many of each character type you chose.",
+  "flavor": "Each subtle mark on their body tells me a story. Here is a man so constantly angry his teeth are ground down to half their size. Here is a woman so habitually nervous she bit her fingernails down to the lunula. And here is a being so radiant with decay, it's as if their skin has been dead longer than they have."
+ },
+ {
+  "id": "chiromancer_sooth",
+  "name": "Chiromancer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chiromancer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chiromancer_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 74.5,
+  "otherNightReminder": "If the Demon is mad they're a character they learned as a bluff, show the token of a different bluff they learned.",
+  "reminders": [
+    "Palm Read Tonight"
+  ],
+  "setup": false,
+  "ability": "Each night*, if the Demon is mad that they are a character they learned as a bluff, you learn a different bluff.",
+  "flavor": "You work as a seamstress, but I can tell, you always wanted to be a philosopher."
+ },
+ {
+  "id": "prestidigitator_sooth",
+  "name": "Prestidigitator",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/prestidigitator_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/prestidigitator_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 16.52,
+  "otherNightReminder": "The Prestidigitator chooses a player. :reminder:",
+  "reminders": [
+    "Assistant"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player (not yourself): if they were to die tonight, they swap characters with a worse kill (once).",
+  "flavor": "Abracadabra! Alakazam! Please ignore that pentagram."
+ },
+ {
+  "id": "lapidary_sooth",
+  "name": "Lapidary",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lapidary_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lapidary_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 76.9,
+  "otherNightReminder": "The Lapidary chooses a living player. Mark them with *APPRAISAL*.",
+  "reminders": [
+    "Appraisal"
+  ],
+  "setup": false,
+  "ability": "Each night* choose a living player: if you nominate them tomorrow & they're a good player leading your team astray, they die.",
+  "flavor": "I carve and cut, I grind and facet, I labor and polish, until every flaw is extinguished, leaving only perfection behind."
+ },
+ {
+  "id": "seafarer_sooth",
+  "name": "Seafarer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/seafarer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/seafarer_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 69.5,
+  "otherNightReminder": "Point your thumb clockwise or anti-clockwise relative to the Seafarer player.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each night*, learn if the Demon's kill nearest to themselves was closer clockwise or anti-clockwise (starting from the Demon).",
+  "flavor": "The sea is a fickle and chaotic beast. Only the currents on the east side of town could've caused the body to wash ashore here."
+ },
+ {
+  "id": "firefighter_sooth",
+  "name": "Firefighter",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/firefighter_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/firefighter_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 16.66,
+  "otherNightReminder": "The Firefighter chooses 3 players who are living neighbors. Mark them *RESCUED*.",
+  "reminders": [
+    "Rescued",
+    "Rescued",
+    "Rescued",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose 3 players who are living neighbors: if 1 would die tonight, they live & if more would, you die instead of them.",
+  "flavor": "The fire is spreading. You focus on containment & dousing, I'll go evacuate the neighbors. Move! Move!"
+ },
+ {
+  "id": "boulevardier_sooth",
+  "name": "Boulevardier",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/boulevardier_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/boulevardier_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 77.2,
+  "otherNightReminder": "If the 2 players marked *FRIEND* are the same character type, nod your head yes. Otherwise, shake your head no.",
+  "reminders": [
+    "Friend",
+    "Friend"
+  ],
+  "setup": false,
+  "ability": "Each night*, learn if the executee & the Demon's kill are the same character type. If the Demon killed 2 players, learn if they do instead.",
+  "flavor": "I knew them. His hair was so pretty and her laugh was so mirthful."
+ },
+ {
+  "id": "fire_eater_sooth",
+  "name": "Fire-Eater",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/fire_eater_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/fire_eater_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 55.2,
+  "otherNightReminder": "If the Fire-Eater is due to kill, the players marked *DEAD* die. :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each day, you may publicly choose 2 players: if 1 is the Demon, you & the other die tonight.",
+  "flavor": "A fire-eater must eat fire, even if he has to kindle it himself."
+ },
+ {
+  "id": "bibliosoph_sooth",
+  "name": "Bibliosoph",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bibliosoph_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bibliosoph_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each day, you may visit the Storyteller & ask a question: learn a player who could help answer it.",
+  "flavor": "Ah yes, 'On Demonology' is currently checked out by one S. Ayden. If they return it by the due date, it should be back in circulation by Friday!"
+ },
+ {
+  "id": "acoustician_sooth",
+  "name": "Acoustician",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/acoustician_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/acoustician_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Each day, you may visit the Storyteller to learn a sound they think an in-play character would make.",
+  "flavor": "No, I think it would sound more like this."
+ },
+ {
+  "id": "thaumaturge_sooth",
+  "name": "Thaumaturge",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/thaumaturge_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/thaumaturge_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 1.01,
+  "otherNightReminder": "If the Thaumaturge chose for their event to happen, do whatever needs to be done to satisfy their ability.",
+  "reminders": [
+    "?",
+    "?",
+    "?",
+    "?"
+  ],
+  "setup": false,
+  "ability": "Each day, visit the Storyteller to learn an impossible event. Once per game, you may choose it happens tonight.",
+  "flavor": "I am never late, nor am I early; I arrive precisely when I mean to."
+ },
+ {
+  "id": "wiseacre_sooth",
+  "name": "Wiseacre",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/wiseacre_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/wiseacre_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 55.8,
+  "otherNightReminder": "If a Wiseacre statement has become false, they die, even if after this point in the night. :reminder:",
+  "reminders": [
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each day, you may visit the Storyteller to learn a true statement. If any statement becomes false, you die that night.",
+  "flavor": "No way. There's no possible way I could be wrong. I haven't been wrong in over 30 years. Here, let me look it up. 'Liaison' is spelled with TWO—?"
+ },
+ {
+  "id": "high_roller_sooth",
+  "name": "High Roller",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/high_roller_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/high_roller_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 17.2,
+  "otherNightReminder": "If the event occurs, mark the High Roller with *JACKPOT* & grant their reward when appropriate. If the High Roller was wrong, mark them with *BUSTED* & grant their punishment when appropriate.",
+  "reminders": [
+    "Jackpot",
+    "Busted",
+    "?",
+    "?",
+    "?"
+  ],
+  "setup": false,
+  "ability": "Each day, you may visit the Storyteller & learn an event. Propose a wager, that if accepted, occurs if the event does.",
+  "flavor": "Most people think casinos make their money on fools addicted to the bright lights and beautiful women of the central floor. Unbeknownst to them, the hazy, darkly lit backrooms are where the real cash gets made."
+ },
+ {
+  "id": "polymath_sooth",
+  "name": "Polymath",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/polymath_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/polymath_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Studied Townsfolk",
+    "Studied Outsider",
+    "Studied Minion",
+    "Studied Demon"
+  ],
+  "setup": false,
+  "ability": "Each day, visit the Storyteller to learn a true or false statement (different from last) about a new character type (if none are new, any).",
+  "flavor": "Jack of all trades, master of none, but better than master of one."
+ },
+ {
+  "id": "classicist_sooth",
+  "name": "Classicist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/classicist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/classicist_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 41.13,
+  "firstNightReminder": "Show the Classicist the Trouble Brewing script sheet or give them a phone to type on. They might choose a Townsfolk. If they do, swap their character token & mark them with the *IS THE CLASSICIST* reminder token.",
+  "otherNight": 19.2,
+  "otherNightReminder": "Show the Classicist the Trouble Brewing script sheet or give them a phone to type on. They might choose a Townsfolk. If they do, swap their character token & mark them with the *IS THE CLASSICIST* reminder token.",
+  "reminders": [
+    "No Ability"
+  ],
+  "remindersGlobal": [
+    "Is The Classicist"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night, choose to become a Townsfolk from Trouble Brewing.",
+  "flavor": "It's a classic for a reason. A damn good reason."
+ },
+ {
+  "id": "anesthetist_sooth",
+  "name": "Anesthetist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/anesthetist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/anesthetist_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 23.3,
+  "firstNightReminder": "The Anesthetist might choose to use their ability. :reminder:",
+  "otherNight": 11.3,
+  "otherNightReminder": "The Anesthetist might choose to use their ability. :reminder:",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night, you may choose that Minions don't wake to use their ability tonight.",
+  "flavor": "It's just a little bit of Propofol, relax and the surgery will be over before you know it. The only bad thing that could happen is if the paralysis component occurs without the unconscious or the numbing of your nerves component. Then you'd be able to feel the whole process, but not be able to tell us to stop! That'd be awful. But, sorry, you have nothing to worry about, I promise."
+ },
+ {
+  "id": "shikari_sooth",
+  "name": "Shikari",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shikari_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shikari_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 24.1,
+  "firstNightReminder": "The Shikari might choose a player. Mark them with the *TRAP SET* reminder token & the Shikari with *NO ABILITY*. Mark each evil player who voted for the player marked *TRAP SET* today with a *DRUNK* reminder.",
+  "otherNight": 12.1,
+  "otherNightReminder": "The Shikari might choose a player. Mark them with the *TRAP SET* reminder token & the Shikari with *NO ABILITY*. Mark each evil player who voted for the player marked *TRAP SET* today with a *DRUNK* reminder.",
+  "reminders": [
+    "Trap Set",
+    "No Ability",
+    "Drunk",
+    "Drunk",
+    "Drunk",
+    "Drunk"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night, choose a player: they register as evil to good abilities & evil players who vote for them are drunk until dusk.",
+  "flavor": "Be calm. They can smell fear. If they suspect anything, the trap will fail and you will be dead."
+ },
+ {
+  "id": "diver_sooth",
+  "name": "Diver",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/diver_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/diver_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 62.1,
+  "otherNightReminder": "If the Diver has not used their ability: The Diver either shakes their head no, or nods yes. If an evil character has died this game, show them the 'You are' card and the relevant character token.",
+  "reminders": [
+    "Buried Treasure",
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night*, choose to become the 1st evil character that died this game.",
+  "flavor": "Ooh, what have we got here?"
+ },
+ {
+  "id": "aeronaut_sooth",
+  "name": "Aeronaut",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/aeronaut_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/aeronaut_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 55.83,
+  "otherNightReminder": "The Aeronaut might choose to use their ability. Mark them with *NO ABILITY* & mark the relevant living player with *DEAD*.",
+  "reminders": [
+    "No Ability",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night*, choose that the least correct living player (not the Demon) dies.",
+  "flavor": "Will you please tell me whether I am a complete idiot or not? Because, if I am a complete idiot, I shall become an aeronaut; but, if not, I shall become a philosopher."
+ },
+ {
+  "id": "abacist_sooth",
+  "name": "Abacist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/abacist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/abacist_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 78.15,
+  "otherNightReminder": "The Abacist might choose to use their ability. Give a finger signal.",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night*, choose to learn how many deaths have been caused by good abilities.",
+  "flavor": "Each soul must be accounted for."
+ },
+ {
+  "id": "schlimazel_sooth",
+  "name": "Schlimazel",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/schlimazel_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/schlimazel_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, during the day, visit the Storyteller to learn why the Storyteller thinks you might lose.",
+  "flavor": "I've been drenched in soup enough times to know when we should start ducking."
+ },
+ {
+  "id": "brigadier_sooth",
+  "name": "Brigadier",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/brigadier_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/brigadier_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, during the day, visit the Storyteller to learn the opposing team’s most impactful decision.",
+  "flavor": "If you know the enemy and know yourself, you need not fear the result of a hundred battles."
+ },
+ {
+  "id": "shareholder_sooth",
+  "name": "Shareholder",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shareholder_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shareholder_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, visit the Storyteller to learn a statement (if all evil live): it's more helpful for each dead good player.",
+  "flavor": "Who cares if 5% more insurance claims get denied? Your only responsibility as CEO is to raise our profits. You are not liable to actually help the people who pay you. And even if you were, it's cheaper to just not pay out the judgement. If I don't see a higher number on my financial report next quarter, we on the board will have to part ways and find someone more... intelligent to run this company."
+ },
+ {
+  "id": "mythbuster_sooth",
+  "name": "Mythbuster",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/mythbuster_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/mythbuster_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, during the day, visit the Storyteller to learn the false statement that the most good players are mad is true.",
+  "flavor": "Remember, the only difference between screwing around and doing science is writing it down."
+ },
+ {
+  "id": "concierge_sooth",
+  "name": "Concierge",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/concierge_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/concierge_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Serviced"
+  ],
+  "setup": false,
+  "ability": "Once per game, visit the Storyteller to learn a task that would help the evil team. If you do it, learn an evil player & another task.",
+  "flavor": "Yes, of course. Anything to make your stay here at our humble hotel more amicable. I'll send someone up to Room 208 right away."
+ },
+ {
+  "id": "clerk_sooth",
+  "name": "Clerk",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/clerk_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/clerk_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 50.1,
+  "firstNightReminder": "Wake each Clerk player separately. They point to a character. Put them to sleep. Then wake each Clerk again, separately. Show the finger signal (0, 1, 2) for the number of in-play characters chosen by other Clerks, or themselves if they are the only Clerk.",
+  "reminders": [
+    "Correct",
+    "Correct",
+    "Correct"
+  ],
+  "setup": true,
+  "ability": "On your 1st night, choose a character: learn how many chosen by other Clerks (or you, if no others) are in-play. [+0 to +2 Clerks]",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-duplicate"
+    }
+  ],
+  "flavor": "Where's your identification? We need your social security number, your passport, your driver's license, proof of address, proof of employment, your birth certificate, and that's just to start the process, sir."
+ },
+ {
+  "id": "tautologist_sooth",
+  "name": "Tautologist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/tautologist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/tautologist_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "?",
+    "?"
+  ],
+  "setup": false,
+  "ability": "On your 1st day, you may visit the Storyteller & learn a statement. It is always true.",
+  "flavor": "How do I know John's evil? Obviously I know John is evil because he's evil."
+ },
+ {
+  "id": "shogun_sooth",
+  "name": "Shogun",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shogun_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shogun_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Loyal",
+    "Loyal",
+    "Loyal",
+    "Loyal",
+    "Loyal"
+  ],
+  "setup": false,
+  "ability": "On your 1st day, visit the Storyteller to learn a rule. Other players who follow it can't die at night.",
+  "flavor": "The life of the hyakushō is easy. Follow our laws and enjoy our protections. What more could they need?"
+ },
+ {
+  "id": "lwa_sooth",
+  "name": "Lwa",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lwa_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lwa_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 19.1,
+  "firstNightReminder": "During Demon Info, show the Demon the Lwa token. If you haven't done this yet, do so now.",
+  "reminders": [
+  ],
+  "setup": true,
+  "ability": "On the final day, only Outsider votes count, even if you're dead. The Demon knows if you're in-play. [+1 Outsider]",
+  "flavor": "Lè w manje lajan Chango, fò w peye Chango."
+ },
+ {
+  "id": "valleywalker_sooth",
+  "name": "Valleywalker",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/valleywalker_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/valleywalker_evil.png"
+  ],
+  "team": "townsfolk",
+  "remindersGlobal": [
+    "Is The Valleywalker"
+  ],
+  "setup": true,
+  "ability": "You think you're a different good character & receive false info. The Demon can't kill you at night. [Your neighbors are evil]",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-disabled"
+    },
+    {
+      "type": "reveal",
+      "name": "replace-character"
+    }
+  ],
+  "flavor": "I have strode this path alone such that it bares two furrows from my travels. I know the gentle whispers of her zephyrs & every shadow of her peaks. I know how echoes leap & bound from her crags to cliffsides. Yet there is something else with me tonight beneath the stars. Something Other..."
+ },
+ {
+  "id": "valet_sooth",
+  "name": "Valet",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/valet_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/valet_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Has Ability",
+    "Poisoned"
+  ],
+  "setup": false,
+  "ability": "You have the ability of the 1st player to nominate you. If they are the Demon, you're poisoned instead.",
+  "flavor": "Woah, the console even has a cassette player!"
+ },
+ {
+  "id": "bematist_sooth",
+  "name": "Bematist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bematist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bematist_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 64.1,
+  "firstNightReminder": "Mark the Bematist with *WALKED*. The Bematist chooses a number. Move the mark that many steps in either direction.",
+  "otherNight": 83.1,
+  "otherNightReminder": "If the Bematist has died, show the character token of each player that has been marked. Otherwise, The Bematist chooses a number. Move the mark that many steps in either direction.",
+  "reminders": [
+    "Walked"
+  ],
+  "setup": false,
+  "ability": "You start marked. Each night, choose how many steps your mark moves. When you die, learn what characters you marked.",
+  "flavor": "Ninety-eight thousand, two hundred & sixty-one, Ninety-eight thousand, two hundred & sixty-two... Can you please step out of the way sir, I'm doing very precise work here... Ninety-eight thousand, two hundred and...? Damnit!"
+ },
+ {
+  "id": "cartoonist_sooth",
+  "name": "Cartoonist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/cartoonist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/cartoonist_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "You may draw a picture about the game. Each day, you may visit the Storyteller & they will add 1 true thing to the picture.",
+  "flavor": "Look, I know you're a legendary artist, that's why I hired you, but what the fuck do you mean by 'Cow tools'?"
+ },
+ {
+  "id": "steeplechaser_sooth",
+  "name": "Steeplechaser",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/steeplechaser_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/steeplechaser_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 47.1,
+  "firstNightReminder": "Wake the Steeplechaser & show them the relevant character tokens. Put them to sleep. Then wake the Demon. Show the *THIS CHARACTER SELECTED YOU* & the Steeplechaser token. Then show the 2 character tokens you showed earlier.",
+  "reminders": [
+    "Hurdle",
+    "Hurdle"
+  ],
+  "setup": false,
+  "ability": "You & the Demon start knowing 2 in-play characters. If the Demon killed 1 & you executed & killed the other, your team wins.",
+  "flavor": "There is no obstacle I can't conquer."
+ },
+ {
+  "id": "intern_sooth",
+  "name": "Intern",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/intern_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/intern_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 54.98,
+  "otherNightReminder": "If the Intern died, their living neighbors had their ability doubled immediately. If you haven't done this yet, do so now. :reminder: :reminder:",
+  "reminders": [
+    "Caffeinated",
+    "Caffeinated"
+  ],
+  "setup": false,
+  "ability": "When you die, your living neighbors have their ability work twice tonight & tomorrow.",
+  "flavor": "They may have died, but at least they got us some damn fine coffee."
+ },
+ {
+  "id": "pharaoh_sooth",
+  "name": "Pharaoh",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/pharaoh_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/pharaoh_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 3.7,
+  "otherNightReminder": "If the Pharoah is dead & marked *RISE NEXT DUSK*, remove their shroud & the reminder token.",
+  "reminders": [
+    "Rise Next Dusk"
+  ],
+  "setup": false,
+  "ability": "When you die, if you nominated more evil players than good players, you rise after next dusk.",
+  "flavor": "In the Duat, Maat weighed my heart against Her feather. She found the good I had done was not finished. Pray I need not return again."
+ },
+ {
+  "id": "abbot_sooth",
+  "name": "Abbot",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/abbot_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/abbot_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 66.2,
+  "otherNightReminder": "If the Abbot died tonight, mark them with *BLESSED*.",
+  "reminders": [
+    "Blessed"
+  ],
+  "setup": false,
+  "ability": "If you die at night, evil votes secretly don't count tomorrow.",
+  "flavor": "Thy unholy will has no control over the minds under the care of St. Benedict."
+ },
+ {
+  "id": "martial_artist_sooth",
+  "name": "Martial Artist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/martial_artist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/martial_artist_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 70.15,
+  "otherNightReminder": "If the Martial Artist died tonight, they choose a player different from their last choice. Put them to sleep. If they chose an evil player, the Martial Artist doesn't die.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "If you die at night, wake & choose a player (different from last): if they're evil, you live.",
+  "flavor": "You must allow negative chi to flow through you. The harder you resist, the more you will imbibe it. As it passes through your body, gracefully redirect it to a negative place. You must follow these practices to always keep a peaceful heart, mind, and soul."
+ },
+ {
+  "id": "cacographer_sooth",
+  "name": "Cacographer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/cacographer_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/cacographer_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 70.11,
+  "otherNightReminder": "If the Cacographer died tonight, write a hint down on a piece of paper or a phone & wake a good player. Show them the *THIS CHARACTER SELECTED YOU* token & the Cacographer token. Then, show them the hint.",
+  "reminders": [
+    "Found Note"
+  ],
+  "setup": false,
+  "ability": "If you die at night, a good player learns a hint to who the Demon is: it's missing some words & some might be misspelled.",
+  "flavor": "I think I'm seeing... 'Red Man' and 'Denim'? Anyone know what that means?"
+ },
+ {
+  "id": "martyr_sooth",
+  "name": "Martyr",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/martyr_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/martyr_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 14.31,
+  "otherNightReminder": "If the Martyr player was executed & died today, mark them with the *Divine Intervention* reminder; no good players can die tonight.",
+  "reminders": [
+    "Divine Intervention"
+  ],
+  "setup": false,
+  "ability": "If you are executed & die, good players can't die tonight.",
+  "flavor": "I am not afraid. I was born to do this."
+ },
+ {
+  "id": "obake_sooth",
+  "name": "Obake",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/obake_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/obake_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 1.44,
+  "otherNightReminder": "If the Obake player is marked with *Swapped* reminder, wake them & show them the 'You are' card & the relevant character token. Then wake the former Minion player, show them the 'You are' card & the Obake character token.",
+  "reminders": [
+    "Swapped"
+  ],
+  "setup": false,
+  "ability": "If you nominate & execute a Minion, swap characters with them.",
+  "flavor": "Your skin is so beautiful! I think I should give it a try..."
+ },
+ {
+  "id": "highlander_sooth",
+  "name": "Highlander",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/highlander_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/highlander_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 55.86,
+  "otherNightReminder": "If the Highlander is due to kill a player, they die.",
+  "reminders": [
+    "Die Tonight"
+  ],
+  "setup": false,
+  "ability": "If you're mad you're a good character, they might die tonight.",
+  "flavor": "There can only be one."
+ },
+ {
+  "id": "caricaturist_sooth",
+  "name": "Caricaturist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/caricaturist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/caricaturist_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Mocked"
+  ],
+  "setup": false,
+  "ability": "If you're mad you're an in-play character (not your own), they're safe from evil players.",
+  "flavor": "Mockery is the sincerest form of flattery."
+ },
+ {
+  "id": "sabreur_sooth",
+  "name": "Sabreur",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/sabreur_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/sabreur_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Cut",
+    "Cut",
+    "Cut",
+    "Cut",
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "If you vote for a Minion, they die. You lose this ability if you voted more times than the number of evil players.",
+  "flavor": "You are using Bonetti’s Defense against me, ah?"
+ },
+ {
+  "id": "cryptozoologist_sooth",
+  "name": "Cryptozoologist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://github.com/user-attachments/assets/b5324f36-9457-4f8b-994d-4f385751b72f"
+  ],
+  "team": "townsfolk",
+  "otherNight": 1.34,
+  "otherNightReminder": "If the Demon is marked with *TURNS GOOD*, show the *YOU ARE* info token & give a thumbs up signal.",
+  "reminders": [
+    "Turns Good",
+    "Guess Used"
+  ],
+  "setup": false,
+  "ability": "If you nominate the Demon, they turn good & whoever wins loses & vice versa. If Minions guess you (once), evil loses, even if dead.",
+  "flavor": "They're just DIFFERENT. They deserve to live just as much as we do!"
+ },
+ {
+  "id": "barnstormer_sooth",
+  "name": "Barnstormer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/barnstormer_good_0.80.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/barnstormer_evil_0.80.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 2.03,
+  "otherNightReminder": "The 1st time the Barnstormer is marked *DRUNK*, wake them & show the reminder token.",
+  "reminders": [
+    "Drunk"
+  ],
+  "setup": false,
+  "ability": "If you're executed & all living evil players voted for it, good wins. If you're mad you're the Barnstormer, you're drunk & learn this.",
+  "flavor": "That's just a parlor trick. If you want real skill, I can do it three sheets to the wind with both hands tied behind my back."
+ },
+ {
+  "id": "ensign_sooth",
+  "name": "Ensign",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/ensign_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/ensign_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 59.1,
+  "otherNightReminder": "If the Demon killed the Ensign, mark the Demon's neighbors with *DEAD*, unless this would cause evil to win.",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "If the Demon kills you, both of their neighbors die, unless it would cause evil to win.",
+  "flavor": "I saw them. Through the fog. I tried... I tried to stop them... I'm sorry..."
+ },
+ {
+  "id": "sponge_sooth",
+  "name": "Sponge",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/sponge_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/sponge_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 58.9,
+  "otherNightReminder": "If the Demon killed the Sponge, mark each of the Sponge's living neighbors as *DRUNK*.",
+  "reminders": [
+    "Drunk",
+    "Drunk"
+  ],
+  "setup": false,
+  "ability": "If the Demon kills you, your living neighbors are drunk & receive false info from now on.",
+  "flavor": "* Squelch *"
+ },
+ {
+  "id": "bellfounder_sooth",
+  "name": "Bellfounder",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bellfounder_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bellfounder_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 59.53,
+  "otherNightReminder": "If the Demon kills an Outsider, wake the Bellfounder. Point to an evil player & show that player's character token.",
+  "reminders": [
+  ],
+  "setup": true,
+  "ability": "If the Demon kills an Outsider, you learn an evil player & their character. [+0 or +1 Outsider]",
+  "flavor": "That poor boy working the clocktower never did anything to deserve this fate."
+ },
+ {
+  "id": "stuntman_sooth",
+  "name": "Stuntman",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/stuntman_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/stuntman_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 60.74,
+  "otherNightReminder": "If the Demon kills the Stuntman, wake the Stuntman. Show the *THIS CHARACTER SELECTED YOU* & the *IN AWE* reminder token.",
+  "reminders": [
+    "In Awe"
+  ],
+  "setup": false,
+  "ability": "If the Demon kills you, learn this & tomorrow publicly choose a player: if evil & they live tonight, they become good.",
+  "flavor": "Did you SEE THAT?! He did a triple front flip across a football field while on fire & his bike exploded!!! I don't care that he died, I wanna be that badass."
+ },
+ {
+  "id": "gymnast_sooth",
+  "name": "Gymnast",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/gymnast_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/gymnast_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 19.1,
+  "otherNightReminder": "If the Gymnast is marked *BACKFLIP*, they can't die tonight.",
+  "reminders": [
+    "Backflip"
+  ],
+  "setup": false,
+  "ability": "If the Demon voted for your execution, you can't die until dawn.",
+  "flavor": "I was built this way for a reason, so I'm going to use it."
+ },
+ {
+  "id": "swashbuckler_sooth",
+  "name": "Swashbuckler",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/swashbuckler_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/swashbuckler_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 56.18,
+  "otherNightReminder": "If an Outsider is marked *PARTY CRASHER*, check if any Outsiders are alive. If so, wake 1 of them. Show them the *YOU ARE* token, then show the Swashbuckler token.",
+  "reminders": [
+    "Party Crasher"
+  ],
+  "setup": true,
+  "ability": "If the Demon was nominated, but didn't die today, an alive Outsider becomes you tonight. [+1 Outsider, you don't start in-play]",
+  "special": [
+    {
+        "type": "selection",
+        "name": "bag-disabled"
+    }
+  ],
+  "flavor": "You thought you could get away from me that easily, scoundrel?"
+ },
+ {
+  "id": "pizzaiolo_sooth",
+  "name": "Pizzaiolo",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/pizzaiolo_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/pizzaiolo_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 76.997,
+  "otherNightReminder": "If the Pizzaiolo is marked with the reminder tokens for all in-play character types, wake the Pizzaiolo tonight & show them the *THIS CHARACTER SELECTED YOU* info token & the Pizzaiolo token. Then, remove the reminder tokens & mark the Pizzaiolo with the *NO ABILITY* reminder token.",
+  "reminders": [
+    "Townsfolk",
+    "Outsider",
+    "Minion",
+    "Demon",
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "If each in-play character type (not Travellers) has nominated, you wake tonight & learn this.",
+  "flavor": "Anyone who says that money cannot buy happiness has clearly never spent their money on pizza."
+ },
+ {
+  "id": "chamberlain_sooth",
+  "name": "Chamberlain",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chamberlain_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/chamberlain_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 75.1,
+  "otherNightReminder": "If any players are marked *RECORDED*, wake the Chamberlain. Show them the character of a player marked *RECORDED*. Remove all *RECORDED* reminder tokens.",
+  "reminders": [
+    "Recorded",
+    "Recorded",
+    "Recorded",
+    "Recorded"
+  ],
+  "setup": false,
+  "ability": "If today was the 1st day an evil player was nominated, tonight, learn the character of 1 who was.",
+  "flavor": "Wait, can we run that last one back? The accused was arrested on account of testimony from their neighbors that they stabbed the innkeeper. And we didn't hang them because...? They're not a shambling fetid corpse? Got it."
+ },
+ {
+  "id": "panegyrist_sooth",
+  "name": "Panegyrist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/panegryist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/panegryist_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 60.86,
+  "otherNightReminder": "If a player is marked *REMEMBERED* & they have no vote token, give them a vote token.",
+  "reminders": [
+    "Remembered",
+    "Remembered",
+    "Remembered",
+    "Remembered"
+  ],
+  "setup": false,
+  "ability": "If a player spends a vote token & was killed by a good ability, they regain a vote token tonight, even if you're dead.",
+  "flavor": "As we seek to eradicate this plague that has befallen our poor town, we must not forget the innocents who have lost their lives. The victims of spurious accusations and overzealous knights in rusted armor. We must honor their wishes and make them proud."
+ },
+ {
+  "id": "hussar_sooth",
+  "name": "Hussar",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/hussar_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/hussar_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 66.83,
+  "otherNightReminder": "If a Hussar was killed by the Demon for the 1st time this game, wake 2 good players separately. Show each of them the *YOU ARE* info token & the Hussar character token.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "The 1st time a Hussar is killed by the Demon, 2 good players become Hussars tonight.",
+  "flavor": "Veni, vidi, Deus vicit."
+ },
+ {
+  "id": "statesman_sooth",
+  "name": "Statesman",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/statesman_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/statesman_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 56.1,
+  "otherNightReminder": "If you haven't marked a player *DRUNK* yet, do so now, if any are fit the criteria. If the Demon is marked *DRUNK*, mark the Statesman with the *DIES TONIGHT* reminder.",
+  "reminders": [
+    "Drunk",
+    "Dies Tonight"
+  ],
+  "setup": false,
+  "ability": "The player most mad they disagree with you (if any) is drunk. If the Demon, you die tonight.",
+  "flavor": "What's a few drinks between enemies? Loosen up a little."
+ },
+ {
+  "id": "lifeguard_sooth",
+  "name": "Lifeguard",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lifeguard_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/lifeguard_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 73.89,
+  "otherNightReminder": "If a player is marked *SAVED*, wake the Lifeguard. Show them the relevant character token. Remove the *SAVED* reminder & mark the Lifeguard with the *NO ABILITY* reminder.",
+  "reminders": [
+    "Saved",
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "The 1st time a player with no ability would die, they live & you learn their character tonight.",
+  "flavor": "Ah. Ha. Ha. Ha. Stayin' alive, stayin' alive."
+ },
+ {
+  "id": "attaché_sooth",
+  "name": "Attaché",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/attaché_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/attaché_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Diplomat"
+  ],
+  "setup": true,
+  "ability": "The good Minion doesn't learn the Demon until you lose this ability & turns evil when you do. [1 Minion starts good]",
+  "flavor": "I'm sorry Ambassador, these are very intense negotiations and I'll need your full cooperation if we are to succeed."
+ },
+ {
+  "id": "pedagogue_sooth",
+  "name": "Pedagogue",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/pedagogue_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/pedagogue_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Drunk Tonight",
+    "Drunk Tonight",
+    "Drunk Tonight",
+    "Drunk Tonight",
+    "Drunk Tonight"
+  ],
+  "setup": false,
+  "ability": "Players who don't vote for your 1st nomination are drunk that night.",
+  "flavor": "World War I started following the assassination of...? Anyone? Show of hands?"
+ },
+ {
+  "id": "abjurist_sooth",
+  "name": "Abjurist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/abjurist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/abjurist_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Warded",
+    "Warded",
+    "Warded",
+    "Warded"
+  ],
+  "setup": false,
+  "ability": "Players who nominate a living evil player are safe from the Demon that night.",
+  "flavor": "Glyph of Warding needs someone to touch it to work? Why would I ever waste a spell-slot on that?"
+ },
+ {
+  "id": "friar_sooth",
+  "name": "Friar",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/friar_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/friar_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 1.209,
+  "firstNightReminder": "Mark each Minion player with a *BLESSED* reminder.",
+  "reminders": [
+    "Blessed",
+    "Blessed",
+    "Blessed",
+    "Blessed"
+  ],
+  "setup": false,
+  "ability": "Minions are drunk until you have voted or nominated.",
+  "flavor": "None of the Brothers of this Order shall be in possession of gifts or coins, whether of clothing or books or payment for any work. If by chance a Brother has collected or is hoarding money or coins, all the Brothers are to consider him as a false Brother and an apostate and a thief and a robber."
+ },
+ {
+  "id": "warlord_sooth",
+  "name": "Warlord",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/warlord_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/warlord_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "Only Townsfolk can die.",
+  "flavor": "I am the punishment of God. If you had not committed great sins, God would not have sent a punishment like me upon you."
+ },
+ {
+  "id": "matador_sooth",
+  "name": "Matador",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/matador_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/matador_evil.png"
+  ],
+  "team": "townsfolk",
+  "firstNight": 23.6,
+  "firstNightReminder": "Mark a Minion with the *BULL* reminder. Wake them & point to the Matador. Show the *THIS CHARACTER SELECTED YOU* & Matador token.",
+  "reminders": [
+    "Bull"
+  ],
+  "setup": false,
+  "ability": "A Minion knows you. If they aren't mad you're evil, they might be drunk.",
+  "flavor": "Many people think they want to be matadors, only to find themselves in the ring with 2000 pounds of bull bearing down on them, & discover that what they really wanted was to wear tight pants and hear the crowd roar."
+ },
+ {
+  "id": "shōjō_sooth",
+  "name": "Shōjō",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shōjō_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/shōjō_evil.png"
+  ],
+  "team": "townsfolk",
+  "reminders": [
+    "Drinking Buddy"
+  ],
+  "setup": false,
+  "ability": "A good player is drunk & can't die, even if you're dead. If the Demon kills you, everyone learns their character.",
+  "flavor": "Where do ya think you're going? We still got 30 bottles to get through, old pal."
+ },
+ {
+  "id": "paratrooper_sooth",
+  "name": "Paratrooper",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/paratrooper_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/paratrooper_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 91.5,
+  "otherNightReminder": "If it is the end of the 2nd night, wake the 2 players marked *LANDED* separately. Show them each the *YOU ARE* info token & the Paratrooper token.",
+  "reminders": [
+    "Landed",
+    "Landed"
+  ],
+  "setup": true,
+  "ability": "Before dawn of the 2nd day, 2 players (Outsiders, if possible) become Paratroopers. [+1 Outsider, you don't start in-play]",
+  "special": [
+    {
+        "type": "selection",
+        "name": "bag-disabled"
+    }
+  ],
+  "flavor": "Sorry for the delay, it was a long flight."
+ },
+ {
+  "id": "bride_sooth",
+  "name": "Bride",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bride_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Townsfolk/bride_evil.png"
+  ],
+  "team": "townsfolk",
+  "otherNight": 58.12,
+  "otherNightReminder": "If a player is marked *BOUQUET CAUGHT*, they become a Bride tonight.",
+  "reminders": [
+    "Bouquet Caught"
+  ],
+  "setup": false,
+  "ability": "During the day, you & a player may publicly choose another player (once): if both are Townsfolk, the 2nd becomes a Bride tonight.",
+  "flavor": "The best part of marriage is the wedding reception. Why else do you think this is my 8th husband?"
+ },
+ {
+  "id": "hooligan_sooth",
+  "name": "Hooligan",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/hooligan_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/hooligan_evil.png"
+  ],
+  "team": "outsider",
+  "firstNight": 29.5,
+  "firstNightReminder": "Mark a neighbor of an Outsider with the *DRUNK* reminder.",
+  "otherNight": 14.55,
+  "otherNightReminder": "Mark a neighbor of an Outsider with the *DRUNK* reminder.",
+  "reminders": [
+    "Drunk"
+  ],
+  "setup": false,
+  "ability": "Each night, a player neighboring an Outsider is drunk, even if you are executed.",
+  "flavor": "Oh c'mon. When was the last time you went out late? It couldn't hurt to just have one drink at the pub and come right back home, could it?"
+ },
+ {
+  "id": "scab_sooth",
+  "name": "Scab",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/scab_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/scab_evil.png"
+  ],
+  "team": "outsider",
+  "otherNight": 85.2,
+  "otherNightReminder": "If the Scab is marked *CROSS THE PICKET-LINE*, swap their alignment. If so, show the *YOU ARE* info token & give a thumb signal.",
+  "reminders": [
+    "Cross The Picket-Line"
+  ],
+  "setup": false,
+  "ability": "Each day, if you don't vote with the majority of players on every nomination, you switch alignment tonight (even if you died).",
+  "flavor": "You fellas might be able to go on strike, and I support your cause now don't get me wrong, but I have a family that needs feeding. I can't afford this. If you want to vilify me for standing by my husband and children, then so be it."
+ },
+ {
+  "id": "roughneck_sooth",
+  "name": "Roughneck",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/roughneck_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/roughneck_evil.png"
+  ],
+  "team": "outsider",
+  "otherNight": 68.3,
+  "otherNightReminder": "If a player is marked *DIES TONIGHT*, place a shroud on them & remove the reminder token.",
+  "remindersGlobal": [
+    "Is The Roughneck",
+    "Dies Tonight"
+  ],
+  "setup": true,
+  "ability": "You think you're a Townsfolk & learn true info. Non-Demons who nominate you die tonight.",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-disabled"
+    },
+    {
+      "type": "reveal",
+      "name": "replace-character"
+    }
+  ],
+  "flavor": "You talkin' to me? You talkin' to me?!"
+ },
+ {
+  "id": "barfly_sooth",
+  "name": "Barfly",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/barfly_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/barfly_evil.png"
+  ],
+  "team": "outsider",
+  "firstNight": 10.9,
+  "firstNightReminder": "If this is the 1st time a Barfly has been chosen by a Townsfolk, move the *IS THE BARFLY* reminder token to the player that chose them.",
+  "otherNight": 8.9,
+  "otherNightReminder": "If this is the 1st time a Barfly has been chosen by a Townsfolk, move the *IS THE BARFLY* reminder token to the player that chose them.",
+  "remindersGlobal": [
+    "Is The Barfly"
+  ],
+  "setup": true,
+  "ability": "You think you are a Townsfolk. Each night, the 1st Townsfolk to choose a Barfly tonight becomes the Barfly instead of you.",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-disabled"
+    },
+    {
+      "type": "reveal",
+      "name": "replace-character"
+    }
+  ],
+  "flavor": "They say I got a drinking problem, but I got no problem drinking at all."
+ },
+ {
+  "id": "daywalker_sooth",
+  "name": "Daywalker",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/daywalker_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/daywalker_evil.png"
+  ],
+  "team": "outsider",
+  "firstNight": 14.1,
+  "firstNightReminder": "Replace the Daywalker's character token with an out-of-play Minion's & mark them with *IS THE DAYWALKER*. Show the Minion character token.",
+  "remindersGlobal": [
+    "Is The Daywalker"
+  ],
+  "setup": false,
+  "ability": "You register as an evil not-in-play Minion to good abilities. You know which.",
+  "flavor": "Why are you all so scared of me? I promise I don't bite. Well... not you anyways."
+ },
+ {
+  "id": "star_crossed_sooth",
+  "name": "Star-Crossed",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/star-crossed_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/star-crossed_evil.png"
+  ],
+  "team": "outsider",
+  "otherNight": 2.5,
+  "otherNightReminder": "Do whatever needs to be done to satisfy the Star-Crossed's ability.",
+  "reminders": [
+    "?",
+    "??",
+    "???"
+  ],
+  "setup": false,
+  "ability": "When you learn that you died, publicly make a wish using 10 or fewer words. The Storyteller grants it, but may twist it to hurt your team.",
+  "flavor": "Oh how I wish to be by your side forever, my dearest Maria."
+ },
+ {
+  "id": "ideologue_sooth",
+  "name": "Ideologue",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/ideologue_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/ideologue_evil.png"
+  ],
+  "team": "outsider",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "When your team would win, name a character of each type (not you): if 2 or more are not-in-play, your team loses, even if dead.",
+  "flavor": "We must rally against these damn infiltrators, threatening to disrupt our sacred democracy. Who you ask? The uh... the Canadians?"
+ },
+ {
+  "id": "scallywag_sooth",
+  "name": "Scallywag",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/scallywag_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/scallywag_evil.png"
+  ],
+  "team": "outsider",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "If all living good players are Outsiders, your team loses, even if dead.",
+  "flavor": "Wait. If you're swabbing the deck and I'm battening down the hatches, who's steering the ship?"
+ },
+ {
+  "id": "sybarite_sooth",
+  "name": "Sybarite",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/sybarite_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/sybarite_evil.png"
+  ],
+  "team": "outsider",
+  "reminders": [
+    "Party Tonight",
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "The 1st time a Minion is executed, all Townsfolk are drunk until dusk, even if you're dead.",
+  "flavor": "I always knew that asshole was evil. Let's get this party STARTED!"
+ },
+ {
+  "id": "apologist_sooth",
+  "name": "Apologist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/apologist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/apologist_evil.png"
+  ],
+  "team": "outsider",
+  "firstNight": 16.2,
+  "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play character tokens. If a choice is required, have them vote for what the choice should be.",
+  "otherNight": 38.1,
+  "otherNightReminder": "If a choice is required for the Demon's ability, have the Minions vote to make the choice.",
+  "remindersGlobal": [
+    "Is The Demon"
+  ],
+  "setup": true,
+  "ability": "The Demon thinks they're a Townsfolk. Minions learn bluffs & wake to make their choices for them.",
+  "special": [
+      {
+        "type": "ability",
+        "name": "pointing",
+        "time": "night",
+        "global": "minion"
+      }
+    ],
+  "flavor": "Whoever is going around murdering us isn't that bad! Think about it, they have a job just like any one of us. We have more in common with them than we think."
+ },
+ {
+  "id": "neophyte_sooth",
+  "name": "Neophyte",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/neophyte_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/neophyte_evil.png"
+  ],
+  "team": "outsider",
+  "otherNight": 52.9999,
+  "otherNightReminder": "If the Demon killed an Outsider (once only): Replace the Outsider's token with an out-of-play Demon token. Put the old Demon to sleep. Wake the target. Show the *YOU ARE* & relevant Demon token & give a thumbs-down.",
+  "reminders": [
+    "Dead",
+    "Once"
+  ],
+  "setup": false,
+  "ability": "The 1st time the Demon kills an Outsider, they die instead & the Outsider becomes an evil out-of-play Demon.",
+  "flavor": "From the Mother, our bodies. For the Mother, our lives."
+ },
+ {
+  "id": "philister_sooth",
+  "name": "Philister",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/philister_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/philister_evil.png"
+  ],
+  "team": "outsider",
+  "reminders": [
+    "Snob"
+  ],
+  "setup": false,
+  "ability": "The most correct good player registers as an evil Demon to good abilities, even if you are executed.",
+  "flavor": "You think you're so smart, huh? That doesn't give you any right to talk down to the rest of us, you snob."
+ },
+ {
+  "id": "schlemiel_sooth",
+  "name": "Schlemiel",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/schlemiel_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/schlemiel_evil.png"
+  ],
+  "team": "outsider",
+  "firstNight": 2.1,
+  "firstNightReminder": "Wake each evil player separately. Using paper or a phone, show each of them the condition or event. Put them to sleep.",
+  "reminders": [
+    "?",
+    "??",
+    "???"
+  ],
+  "setup": true,
+  "ability": "Evil players know a condition or event. If it occurs, your team loses. [+1 Schlimazel]",
+  "flavor": "Aw man— Geez, I'm sorry fellas. I don't know how this keeps happening."
+ },
+ {
+  "id": "tyrant_sooth",
+  "name": "Tyrant",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/tyrant_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/tyrant_evil.png"
+  ],
+  "team": "outsider",
+  "otherNight": 67.32,
+  "otherNightReminder": "If the Tyrant is due to kill a player, they die.",
+  "reminders": [
+    "Die Tonight",
+    "Die Tonight"
+  ],
+  "setup": false,
+  "ability": "Players mad you are evil might die tonight, even if you're dead.",
+  "flavor": "In the question of whether it is better to be loved rather than feared, or feared rather than loved: it might perhaps be answered that we should wish to be both; but since love and fear can hardly exist together, if we must choose between them, it is far safer to be feared than loved."
+ },
+ {
+  "id": "arachnologist_sooth",
+  "name": "Arachnologist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/arachnologist_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/arachnologist_evil.png"
+  ],
+  "team": "outsider",
+  "otherNight": 85.88,
+  "otherNightReminder": "If the Arachnologist is marked *SPIDER FOUND*, nod yes. Otherwise, shake your head no. Remove the *SPIDER FOUND* reminder, if any.",
+  "reminders": [
+    "Harmless",
+    "Spider Found"
+  ],
+  "setup": false,
+  "ability": "1 Minion might register as good & as a Townsfolk or Outsider to good abilities. Each night*, learn if you voted for them today.",
+  "flavor": "You don't understand! Arachnida are just misunderstood, they're usually harmless to us; they wouldn't hurt a fly. Well, they would... But we're not flies!"
+ },
+ {
+  "id": "kleptocrat_sooth",
+  "name": "Kleptocrat",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/kleptocrat_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/kleptocrat_evil.png"
+  ],
+  "team": "outsider",
+  "firstNight": 10.15,
+  "firstNightReminder": "Wake the Demon. Show the Kleptocrat character token. Point to the Kleptocrat player.",
+  "otherNight": 14.69,
+  "otherNightReminder": "If the Kleptocrat is marked with the *RIGGED* reminder, mark a Townsfolk player with the *DRUNK* reminder.",
+  "reminders": [
+    "Rigged",
+    "Drunk"
+  ],
+  "setup": false,
+  "ability": "Each dusk until next, a Townsfolk is drunk, unless you voted differently than the Demon today, even if executed. The Demon knows you.",
+  "flavor": "It's not bribery, it's lobbying! Who am I to argue with my constituents? It's my job to vote as they tell me and keep them fed and pacified."
+ },
+ {
+  "id": "apparatchik_sooth",
+  "name": "Apparatchik",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/apparatchik_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Outsiders/apparatchik_evil.png"
+  ],
+  "team": "outsider",
+  "reminders": [
+    "Guess Used"
+  ],
+  "setup": true,
+  "ability": "On the final day, good wins if the Demon isn't nominated & loses if the Demon guesses a Townsfolk (once). [Most Townsfolk are Apparatchik]",
+  "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      }
+    ],
+  "flavor": "Workers of the World, unite!"
+ },
+ {
+  "id": "scrap_dash_sooth",
+  "name": "Scrap-Dash",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/scrap-dash_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/scrap-dash_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 38.38,
+  "firstNightReminder": "Write down on a piece of paper or a phone 3 statement fragments. Show them to the Scrap-Dash. The Scrap-Dash might choose to complete any of them now. If you don't approve, shake your head no.",
+  "otherNight": 25.25,
+  "otherNightReminder": "The Scrap-Dash might choose to complete any of their statements now. If you don't approve, shake your head no.",
+  "reminders": [
+    "1",
+    "2",
+    "3",
+    "?",
+    "??"
+  ],
+  "setup": false,
+  "ability": "You start knowing the 1st half of 3 statements. You may finish each at any time: if accepted, it becomes true.",
+  "flavor": "This trebuchet was built in a cave with a box of scraps, I'll have you know."
+ },
+ {
+  "id": "handler_sooth",
+  "name": "Handler",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/handler_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/handler_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 23.53,
+  "firstNightReminder": "Show the Handler their hand signal.",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "You start knowing a signal. You may do it (once) during nominations, if more than 3 players live, to end the day immediately with no execution.",
+  "flavor": "They're all ticking time bombs, quietly counting down until their mission is triggered."
+ },
+ {
+  "id": "apocrypha_sooth",
+  "name": "Apocrypha",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/apocrypha_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/apocrypha_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 72.1,
+  "firstNightReminder": "Show the Grimoire for as long as the Apocrypha needs. The Apocrypha chooses a player. :remminder: Put the Apocrypha to sleep. Do whatever needs to be done to satisfy the Apocrypha's ability.",
+  "otherNight": 91.1,
+  "otherNightReminder": "Show the Grimoire for as long as the Apocrypha needs. The Apocrypha chooses a player. :remminder: Put the Apocrypha to sleep. Do whatever needs to be done to satisfy the Apocrypha's ability.",
+  "reminders": [
+    "Rewritten"
+  ],
+  "setup": false,
+  "special": [
+      {
+        "name": "grimoire",
+        "type": "signal",
+        "time": "night"
+      }
+  ],
+  "ability": "Each night, view the Grimoire & choose a player: something they learned since dawn becomes false.",
+  "flavor": "When the Library of Alexandria burned, the crowd cheered in horrible joy. They knew there was something older than wisdom, & it was fire. Something older than words, & it was ashes."
+ },
+ {
+  "id": "hemomancer_sooth",
+  "name": "Hemomancer",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/hemomancer_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/hemomancer_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 29.5,
+  "firstNightReminder": "The Hemomancer chooses a player. Mark them with *ENTWINED*.",
+  "otherNight": 14.97,
+  "otherNightReminder": "The Hemomancer chooses a player. Mark them with *ENTWINED*. If a marked player is killed, kill all other marked players, unless there are only 3 left alive.",
+  "reminders": [
+    "Entwined",
+    "Entwined",
+    "Entwined",
+    "Entwined",
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Each night, choose a player. The 1st time a chosen player dies, they all die (this ability can't leave less than 3 alive).",
+  "flavor": "I am NOT a VAMPIRE. Stop asking me to bite you!"
+ },
+ {
+  "id": "mahoraga_sooth",
+  "name": "Mahoraga",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/mahoraga_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/mahoraga_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 10.8,
+  "firstNightReminder": "The Mahoraga might choose a character. Then, write down on a piece of paper or a phone a new ability for the Mahoraga to gain. Show it to them. Put them to sleep. Wake a good player. Show them the *THIS PLAYER SELECTED YOU* token & the Mahoraga token. Then show them the relevant character token.",
+  "otherNight": 8.8,
+  "otherNightReminder": "The Mahoraga might choose a character. Then, write down on a piece of paper or a phone a new ability for the Mahoraga to gain. Show it to them. Put them to sleep. Wake a good player. Show them the *THIS PLAYER SELECTED YOU* token & the Mahoraga token. Then show them the relevant character token.",
+  "reminders": [
+    "Adapted",
+    "Adapted",
+    "Adapted",
+    "Adapted"
+  ],
+  "setup": false,
+  "ability": "Each night, you may choose a character: a good player learns it. You learn & gain an ability that adapts to that character's ability.",
+  "flavor": "With this treasure, I summon a counter to the bullshit that is Professor."
+ },
+ {
+  "id": "paranoia_sooth",
+  "name": "Paranoia",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/paranoia_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/paranoia_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 38.195,
+  "firstNightReminder": "Show a finger signal for how many Minions live. The Paranoia chooses that many players. :reminder: Put the Paranoia to sleep. Wake the targets individually. Show each the *THIS CHARACTER SELECTED YOU* token, the Paranoia token.",
+  "otherNight": 25.195,
+  "otherNightReminder": "Show a finger signal for how many Minions live. The Paranoia chooses that many players. :reminder: Put the Paranoia to sleep. Wake the targets individually. Show each the *THIS CHARACTER SELECTED YOU* token, the Paranoia token.",
+  "reminders": [
+    "Paranoid",
+    "Paranoid",
+    "Paranoid",
+    "Paranoid"
+  ],
+  "setup": false,
+  "ability": "Each night, choose a player per living Minion: tomorrow they're mad 'about to die' players are good & shouldn't be executed or they might be.",
+  "flavor": "Who are you to be so foolish as to think you're right? To believe with all your pathetic heart that you're doing the righteous thing? Have you never considered, even for a second, the contrary?"
+ },
+ {
+  "id": "demagogue_sooth",
+  "name": "Demagogue",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/demagogue_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/demagogue_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 14.16,
+  "otherNightReminder": "Wake the Demagogue. Point to the players marked *FOLLOWER*.",
+  "reminders": [
+    "Follower",
+    "Follower",
+    "Follower"
+  ],
+  "setup": false,
+  "ability": "Each night*, up to 3 players who voted for your nominee today might be poisoned (you know who).",
+  "flavor": "It was just a Roman salute. You guys are overreacting."
+ },
+ {
+  "id": "dajjal_sooth",
+  "name": "Dajjal",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/dajjal_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/dajjal_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 15.666,
+  "otherNightReminder": "The Dajjal chooses a player. Mark them *CURSED*. The 1st time the target would die tonight, they don't & 2 players die tomorrow night.",
+  "reminders": [
+    "Cursed",
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: the 1st time they die tonight, they don't & 2 players die tomorrow night.",
+  "flavor": "They thought me their Savior. Only as their miraculously healed bodies crumbled to sand did they realize who I truly am."
+ },
+ {
+  "id": "cornucopia_sooth",
+  "name": "Cornucopia",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/cornucopia_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/cornucopia_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 26.1,
+  "otherNightReminder": "The Cornucopia chooses an out-of-play Outsider. Put the Cornucopia to sleep. Wake the Outsiders individually. Show the *YOU ARE* token & their new Outsider token.",
+  "reminders": [
+  ],
+  "setup": true,
+  "ability": "Each night*, even if you're dead, choose an out-of-play Outsider: alive Outsiders become it. [-1 to +1 Outsider, all Outsiders are the same]",
+  "flavor": "You're all welcome at my annual feast! The apple crumble is absolutely life-changing."
+ },
+ {
+  "id": "ambrosia_sooth",
+  "name": "Ambrosia",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/ambrosia_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/ambrosia_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 43.12,
+  "firstNightReminder": "The Ambrosia might choose to use their ability. If they do, mark the center of the Grimoire with *INTOXICATED*.",
+  "otherNight": 62.12,
+  "otherNightReminder": "The Ambrosia might choose to use their ability. If they do, mark the center of the Grimoire with *INTOXICATED*.",
+  "reminders": [
+    "Intoxicated"
+  ],
+  "setup": false,
+  "ability": "Once per game, at night, choose that all players swap alignment until dusk & do not wake to learn this.",
+  "flavor": "Mortals are not meant to taste the food of the Gods. It burns their souls down to the fiber of their essence and then goes even further. What remains is not who they were."
+ },
+ {
+  "id": "skullsplitter_sooth",
+  "name": "Skullsplitter",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/skullsplitter_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/skullsplitter_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "ability": "Once per game, during the day, you may yell to kill all players between the vote the Storyteller last counted & the next hand raised.",
+  "flavor": "DEATH! DEATH TO ALL WHO HOLD MERCY IN THEIR HEARTS!"
+ },
+ {
+  "id": "tosaduna_sooth",
+  "name": "Tosaduna",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/tosaduna_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/tosaduna_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 31.1,
+  "firstNightReminder": "Do whatever needs to be done to satisfy the Tosaduna's ability. Write a hint down on a piece of paper or a phone & wake a good player. Show them the *THIS CHARACTER SELECTED YOU* token & the Tosaduna token. Then, show them the hint. Repeat this for the Tosaduna player.",
+  "otherNight": 17.1,
+  "otherNightReminder": "Do whatever needs to be done to satisfy the Tosaduna's ability. Write a hint down on a piece of paper or a phone & wake a good player. Show them the *THIS CHARACTER SELECTED YOU* token & the Tosaduna token. Then, show them the hint. Repeat this for the Tosaduna player.",
+  "reminders": [
+    "Knows Hint",
+    "?",
+    "??",
+    "???"
+  ],
+  "setup": false,
+  "ability": "Once per full day, something impossible happens: you & 1 good player learn a hint to what.",
+  "flavor": "Nothing is impossible in the stochastic nightmare of infinity. Everything is inevitable."
+ },
+ {
+  "id": "apollyon_sooth",
+  "name": "Apollyon",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/apollyon_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/apollyon_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 62.911,
+  "otherNightReminder": "If the Apollyon is dead & tonight is the final night, mark the Apollyon & 2 dead players with *EMERGE* reminders. Wake the Apollyon & Demon separately. Show each the *YOU ARE* token & their new character token.",
+  "reminders": [
+    "Emerge 1",
+    "Emerge 2",
+    "Emerge 3"
+  ],
+  "setup": false,
+  "ability": "On the final night, if you are dead, all others die (even if they can't), you & 2 dead players emerge, & you swap characters with the Demon.",
+  "flavor": "I have endured the filth of this town and her people for long enough. Tonight, I rise to claim my promised power. The stars burn with my will; tonight you will all learn the true meaning of suffering."
+ },
+ {
+  "id": "killjoy_sooth",
+  "name": "Killjoy",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/killjoy_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/killjoy_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 27.83,
+  "firstNightReminder": "Show the Killjoy 4 in-play Townsfolk tokens. They choose 2 of them. Mark the 2 players with those characters *POISONED*.",
+  "otherNight": 35.83,
+  "otherNightReminder": "If the Killjoy is marked *KILL TONIGHT*, when you wake the Demon, show them the *THIS CHARACTER SELECTED YOU* token & the Killjoy token. Make sure they choose the Killjoy at least once.",
+  "reminders": [
+    "Poisoned",
+    "Poisoned",
+    "Kill Tonight"
+  ],
+  "setup": false,
+  "ability": "You start by learning 4 in-play Townsfolk & choosing 2 to poison. If 1 is executed, the Demon must choose you tonight.",
+  "flavor": "Not to rain on your parade, but this is probably the lamest town I've ever visited. Your clocktower doesn't even tell the correct time."
+ },
+ {
+  "id": "jörmungandr_sooth",
+  "name": "Jörmungandr",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/jormungandr_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/jormungandr_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 8.39,
+  "firstNightReminder": "Wake the Jörmungandr: Show the *THIS PLAYER IS* & the *TAIL* reminder token, then point to the player marked with it.",
+  "otherNight": 73.39,
+  "otherNightReminder": "If the player marked *TAIL* is the living neighbor of the Jörmungandr, wake a good player. Show the *THIS CHARACTER SELECTED YOU* & Jörmungandr tokens.",
+  "reminders": [
+    "Tail"
+  ],
+  "setup": false,
+  "ability": "You know the player you sit furthest from. If they are your living neighbor, 1 good player learns this & your team wins at dusk.",
+  "flavor": "Clouds are gathering and the seas are surging, Erik. I fear the Serpent of Midgard has had enough of their tail."
+ },
+ {
+  "id": "escape_artist_sooth",
+  "name": "Escape Artist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://github.com/user-attachments/assets/dd573fcd-b4b4-4478-9c4a-37b52db12a02"
+  ],
+  "team": "minion",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "You may close your eyes when nominated & guess 3 players (not Minions) who voted (evil can't say who): if right, your team wins.",
+  "flavor": "And now, for my next trick..."
+ },
+ {
+  "id": "nyx_sooth",
+  "name": "Nyx",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/nyx_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/nyx_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Guess Used"
+  ],
+  "remindersGlobal": [
+    "Is The Outsider"
+  ],
+  "setup": true,
+  "ability": "You & the evil team don't learn each other. 1 Outsider thinks they're you. If you publicly guess the Demon (once), your team wins. [+1 Outsider]",
+  "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      },
+      {
+        "type": "reveal",
+        "name": "replace-character"
+      }
+  ],
+  "flavor": "Stars glimmer within me, until one by one, I put them to eternal rest. You will never see the morning again, child."
+ },
+ {
+  "id": "astaroth_sooth",
+  "name": "Astaroth",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/astaroth_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/astaroth_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 67.2,
+  "firstNightReminder": "Show the Grimoire to the Astaroth for as long as they need.",
+  "otherNight": 87.2,
+  "otherNightReminder": "Show the Grimoire to the Astaroth for as long as they need.",
+  "reminders": [
+    "Turns Evil"
+  ],
+  "setup": false,
+  "ability": "You can't die & may see the Grimoire any time. Good may privately ask you a question (once each) & might die or turn evil if answered truthfully.",
+  "special": [
+      {
+        "type": "signal",
+        "name": "grimoire",
+        "time": "night"
+      }
+    ],
+  "flavor": "I have all the answers to any question the mortal mind could conjure. Your geniuses, Newton, al-Khwarizmi, Da Vinci, would be nobodies without my help. Now, before my boredom grows, what do you desire?"
+ },
+ {
+  "id": "aletheia_sooth",
+  "name": "Aletheia",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/aletheia_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/aletheia_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Liar"
+  ],
+  "setup": false,
+  "ability": "If you vote & the nominee lied during their defense, they are executed after the vote is tallied.",
+  "flavor": "The true, unadulterated, full veritable description of reality, veritas, is so blasé. Speak the truth of your reality, through the warped & cracked glasses you call your sensory perception and we'll start to get somewhere interesting."
+ },
+ {
+  "id": "jack_in_the_box_sooth",
+  "name": "Jack-in-the-Box",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/jack-in-the-box_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/jack-in-the-box_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 11.2,
+  "otherNightReminder": "If the Jack-in-the-Box is marked *POPPED*, show them the Grimoire for as long as they need. The Jack-in-the-Box chooses a player. Mark them *POISONED*.",
+  "reminders": [
+    "Popped",
+    "Poisoned",
+    "Poisoned",
+    "Poisoned"
+  ],
+  "setup": false,
+  "ability": "If you're nominated before final day, your nominator is executed immediately & that night, you see the Grimoire & poison a player.",
+  "special": [
+      {
+        "type": "signal",
+        "name": "grimoire",
+        "time": "night"
+      }
+    ],
+  "flavor": "POP! Goes the weasel."
+ },
+ {
+  "id": "phantasmagoria_sooth",
+  "name": "Phantasmagoria",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/phantasmagoria_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/phantasmagoria_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Dream",
+    "Dream",
+    "Dream",
+    "Dream"
+  ],
+  "setup": true,
+  "ability": "If you removed 1 Outsider, players register falsely to their Townsfolk neighbors. If you added 1, only Outsiders do. [-1 or +1 Outsider]",
+  "flavor": "Figures in flames, dancing silhouettes, / Dreams are fiction manifest. / Floating embers spin in pirouettes, / Truth is hardest to digest."
+ },
+ {
+  "id": "charybdis_sooth",
+  "name": "Charybdis",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/charybdis_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/charybdis_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "If the dead equal or outnumber the living, evil wins. If an evil player is executed, all are.",
+  "flavor": "A wise sailor knows to never sail between Scylla & Charybdis."
+ },
+ {
+  "id": "ataraxia_sooth",
+  "name": "Ataraxia",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/ataraxia_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/ataraxia_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Used Vote"
+  ],
+  "setup": false,
+  "ability": "If the Demon is executed & you used your vote token on them, your team wins, unless it's final day.",
+  "flavor": "We will finally be at peace."
+ },
+ {
+  "id": "barbarossa_sooth",
+  "name": "Barbarossa",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/barbarossa_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/barbarossa_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+  ],
+  "setup": true,
+  "ability": "If all living good players are Outsiders, your team wins, even if dead. Townsfolk die instead of them at night. [-1 or +1 Outsider]",
+  "flavor": "Dead men tell MY tale."
+ },
+ {
+  "id": "menhir_sooth",
+  "name": "Menhir",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/menhir_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/menhir_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 1.06,
+  "firstNightReminder": "Announce the Menhir rule.",
+  "otherNight": 53.11,
+  "otherNightReminder": "If a player broke the rule, mark them with *DIE TONIGHT*. Place a shroud on every player marked *DIE TONIGHT*. Remove all *DIE TONIGHT* reminder tokens.",
+  "reminders": [
+    "Die Tonight",
+    "Die Tonight",
+    "Die Tonight"
+  ],
+  "setup": false,
+  "ability": "All players know a rule. Good players who break it die tonight, even if you're dead.",
+  "flavor": "That... thing just appeared one night where old Mr. Humphreys' house is. Was. I can't stand to look at it for more than a second, but I can feel what it's asking from us in my bones."
+ },
+ {
+  "id": "boustrofiend_sooth",
+  "name": "Boustrofiend",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/boustrofiend_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/boustrofiend_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 13.12,
+  "otherNightReminder": "Move the *REVERSED* reminder to the center of the Grimoire between the Boustrofiend player & the Demon player on the opposite half from where it is now.",
+  "reminders": [
+    "Reversed"
+  ],
+  "setup": true,
+  "ability": "All Townsfolk from you to the Demon clockwise receive reversed info. Each night*, the direction switches. [You sit opposite the Demon]",
+  "flavor": "Έχουν ξεχάσει τους παλιούς τρόπους. Ας αρχίσει αυτό το μάθημά τους."
+ },
+ {
+  "id": "quicksilver_sooth",
+  "name": "Quicksilver",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/quicksilver_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/quicksilver_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Poisoned",
+    "Poisoned"
+  ],
+  "setup": false,
+  "ability": "The 2 most recent Townsfolk nominators are poisoned.",
+  "flavor": "Those who speak the most often have the most to hide."
+ },
+ {
+  "id": "vinogenesis_sooth",
+  "name": "Vinogenesis",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/vinogenesis_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/vinogenesis_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 13.46,
+  "otherNightReminder": "Point to the 2 players marked *WISE* & *FOOLISH*.",
+  "reminders": [
+    "Wise",
+    "Foolish"
+  ],
+  "setup": false,
+  "ability": "The most & least correct good players are poisoned (you know who).",
+  "flavor": "This vintage, with its opulent bouquet of sun-drenched violets and the faintest whisper of wet stone, dances on the palate like a delicate ballet of flavors. Notes of blackcurrant and truffle intertwine seamlessly, evoking the essence of a misty morning in an ancient vineyard. The tannins are like silk, caressing the tongue with a lingering finish that beckons one back for another sip, reminiscent of a bygone era of elegance and sophistication."
+ },
+ {
+  "id": "rouker_sooth",
+  "name": "Rouker",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/rouker_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/rouker_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Demon 1",
+    "Demon 1",
+    "Demon 2",
+    "Demon 2",
+    "Demon 3",
+    "Demon 3"
+  ],
+  "setup": false,
+  "ability": "Good players mad the wrong Demon is in-play register as that Demon to good abilities.",
+  "flavor": "Every accusation is a confession."
+ },
+ {
+  "id": "morningstar_sooth",
+  "name": "Morningstar",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/morningstar_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/morningstar_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 53.666,
+  "otherNightReminder": "Players marked *PRIDEFUL* might die.",
+  "reminders": [
+    "Prideful",
+    "Prideful",
+    "Prideful"
+  ],
+  "setup": false,
+  "ability": "Players who vote on their own nomination might die tonight.",
+  "flavor": "They say Pride goeth before the fall, and well… Let's just say you've a Hell of a long way to go."
+ },
+ {
+  "id": "kryptoloa_sooth",
+  "name": "Kryptoloa",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/kryptoloa_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/kryptoloa_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Townsfolk Guess",
+    "Outsider Guess",
+    "Minion Guess",
+    "Demon Guess",
+    "Traveller Guess"
+  ],
+  "setup": true,
+  "ability": "Players of each character type may publicly guess the set-up modification (once per type): if right, their team wins. [Any set-up]",
+  "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      },
+      {
+        "type": "selection",
+        "name": "good-duplicate"
+      }
+  ],
+  "flavor": "Everyone has secrets locked deep inside them, sometimes even from themselves. I am their key."
+ },
+ {
+  "id": "telos_sooth",
+  "name": "Telos",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/telos_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/telos_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Failed"
+  ],
+  "setup": true,
+  "ability": "Outsiders win if (& only if) you do, unless they all vote for the Demon's execution. [1 or 2 Outsiders]",
+  "flavor": "People don't care about the morality or consequences of the actions we take. They think we're working towards a divinely-inspired vision for the future. They need to believe that. Everything is excused as necessary in the grander scope of our plan."
+ },
+ {
+  "id": "yaldabaoth_sooth",
+  "name": "Yaldabaoth",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/yaldabaoth_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/yaldabaoth_good.png"
+  ],
+  "team": "minion",
+  "reminders": [
+    "Divine Spark"
+  ],
+  "setup": false,
+  "ability": "1 opposing player registers as you would to good players' abilities. If you guess them (once), your team wins, even if dead.",
+  "flavor": "Though as powerful as I am, the whereabouts of my Divine Light are unknown to me. Humanity will pay for their thievery once it is finally returned to its rightful place."
+ },
+ {
+  "id": "aponia_sooth",
+  "name": "Aponia",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/aponia_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/aponia_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 69.69,
+  "otherNightReminder": "If a player is marked *RELAXED*, remove the reminder & they die. If a player would die due to a Townsfolk or Outsider ability, mark them with a *RELAXED* reminder instead.",
+  "reminders": [
+    "Relaxed",
+    "Relaxed",
+    "Relaxed",
+    "Relaxed"
+  ],
+  "setup": false,
+  "ability": "Deaths caused by Townsfolk & Outsider abilities occur 1 day later. When you die, all currently delayed deaths happen tonight.",
+  "flavor": "Exhale. Let the pain wash out of your body. You are free. Only now may you be truly happy."
+ },
+ {
+  "id": "sycorax_sooth",
+  "name": "Sycorax",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/sycorax_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/sycorax_good.png"
+  ],
+  "team": "minion",
+  "otherNight": 57.12,
+  "otherNightReminder": "The Sycorax might choose as many players as they want. Then, if they have guessed as many times as there are Outsiders, mark the Sycorax with *NO ABILITY*. If they correctly chose exactly the Outsider players, mark the center of the Grimoire with *DEMON STORYTELLER*.",
+  "reminders": [
+    "Demon Storyteller",
+    "1",
+    "2",
+    "3",
+    "4",
+    "No Ability"
+  ],
+  "setup": true,
+  "ability": "X times per game, at night*, guess who the Outsiders are: if correct, the Storyteller becomes 'the Demon' instead. [X Outsiders]",
+  "flavor": "That foul witch has returned. Your fear was not misplaced."
+ },
+ {
+  "id": "standoff_sooth",
+  "name": "Standoff",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/standoff_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/standoff_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 5.6,
+  "firstNightReminder": "Wake the player marked *KNOWS*. Show them the *THIS PLAYER SELECTED YOU* token & the Standoff character token.",
+  "reminders": [
+    "Knows",
+    "Showdown"
+  ],
+  "setup": false,
+  "ability": "1 good player knows you're in-play. Once, they may privately poison you until dusk. During the day, whoever wins loses & vice versa.",
+  "flavor": "Feelin' lucky, kid?"
+ },
+ {
+  "id": "elerosea_sooth",
+  "name": "Elerosea",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/elerosea_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/elerosea_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 11.21,
+  "firstNightReminder": "At the proper time, if an Outsider needs to make a choice, wake the Elerosea, show them the relevant Outsider token & prompt them to make a valid choice.",
+  "otherNight": 9.21,
+  "otherNightReminder": "At the proper time, if an Outsider needs to make a choice, wake the Elerosea, show them the relevant Outsider token & prompt them to make a valid choice.",
+  "remindersGlobal": [
+    "Is Outsider 1",
+    "Is Outsider 2",
+    "Is Outsider 3",
+    "Is Outsider 4"
+  ],
+  "setup": true,
+  "ability": "Outsiders think they're the next Outsider in order & you make their ability's choices (if any), even if you're dead. [+0 or +1 Outsider]",
+  "flavor": "Many do not realize how different their life would be if they made slightly different choices at only a few moments."
+ },
+ {
+  "id": "dioskouroi_sooth",
+  "name": "Dioskouroi",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/dioskouroi_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Minions/dioskouroi_good.png"
+  ],
+  "team": "minion",
+  "firstNight": 9.11,
+  "firstNightReminder": "Wake both players together. Allow eye contact. Show them the relevant Townsfolk token. Put them both to sleep. Wake the Demon & point to both players. Then give the thumbs up signal & point to the good one.",
+  "reminders": [
+    "Castor",
+    "Pollux"
+  ],
+  "remindersGlobal": [
+    "Is the Dioskouroi"
+  ],
+  "setup": true,
+  "ability": "A Townsfolk thinks they're you, you both think you have their ability & know each other. You don't know the evil team. The Demon knows which is good.",
+  "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      },
+      {
+      "type": "reveal",
+      "name": "replace-character"
+      }
+  ],
+  "flavor": "No you're the evil one! No you are! Nuh uh! Are so! Prove it!"
+ },
+ {
+  "id": "roulette_sooth",
+  "name": "Roulette",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/roulette_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/roulette_good.png"
+  ],
+  "team": "demon",
+  "firstNight": 42.36,
+  "firstNightReminder": "The Roulette chooses 2 players. :reminder: :reminder:",
+  "otherNight": 39.36,
+  "otherNightReminder": "The Roulette chooses 2 players. :reminder: :reminder:",
+  "reminders": [
+    "Will Die",
+    "Will Die"
+  ],
+  "setup": false,
+  "ability": "Each night, choose 2 players: they die tomorrow night. Each day, if most good players correctly guess your last choices, good wins.",
+  "flavor": "Always bet on black."
+ },
+ {
+  "id": "oneiros_sooth",
+  "name": "Oneiros",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/oneiros_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/oneiros_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 50.1,
+  "otherNightReminder": "The living neighbors of a player who didn't wake tonight might die. :reminder: :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, the living neighbors of a player that didn't wake tonight might die.",
+  "flavor": "Honk shoo mimimi."
+ },
+ {
+  "id": "lonely_god_sooth",
+  "name": "Lonely God",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/lonely_god_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/lonely_god_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 45.1,
+  "otherNightReminder": "The Lonely God chooses a player for each Minion removed from the bag. :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead",
+    "Dead"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose X players: they die. You are all out-of-play Minions. [-X Minions]",
+  "flavor": "In the end, you just get tired; tired of the struggle, tired of losing everyone that matters to you, tired of watching everything you love turn to dust."
+ },
+ {
+  "id": "ulfrik_sooth",
+  "name": "Ulfrik",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/ulfrik_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/ulfrik_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 46.1,
+  "otherNightReminder": "The Ulfrik chooses a player.",
+  "reminders": [
+    "Dead",
+    "Acts Twice",
+    "Acts Twice",
+    "Acts Twice"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they die. Minions who nominated today may act twice tonight.",
+  "flavor": "Act with haste, my brothers, before the light of dawn reveals our treachery."
+ },
+ {
+  "id": "katahypno_sooth",
+  "name": "Kátahypno",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/katahypno_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/katahypno_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 47.1,
+  "otherNightReminder": "The Kátahypno chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they & the alive good player that would wake after you, die.",
+  "flavor": "It comes to me in my dreams. He whispers in my mind. She commands my muscles. They demand my blood."
+ },
+ {
+  "id": "avari_sooth",
+  "name": "Avari",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/avari_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/avari_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 40.1,
+  "otherNightReminder": "The Avari chooses 2 players. If no Townsfolk live, wake all players up & declare the good team has won.",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose 2 players: they die. If no Townsfolk live, your team loses. [+1 Outsider]",
+  "flavor": "I HUNGER FOR THE WORLD BEYOND THESE THIN PAGES. I WILL TASTE YOUR FLESH SOON ENOUGH."
+ },
+ {
+  "id": "zyzygy_sooth",
+  "name": "Zyzygy",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/zyzygy_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/zyzygy_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 50.48,
+  "otherNightReminder": "The Zyzygy chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Eclipsed"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. If you're the X-th execution, your team wins. [X Outsiders]",
+  "flavor": "You were warned. You scorned them for telling the truth. Now you will bear witness."
+ },
+ {
+  "id": "quamgar_sooth",
+  "name": "Quamgar",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/quamgar_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/quamgar_good.png"
+  ],
+  "team": "demon",
+  "firstNight": 27.54,
+  "firstNightReminder": "You may place the *REVERSED* reminder in the center of the Grimoire.",
+  "otherNight": 13.54,
+  "otherNightReminder": "Change the Quamgar reminder token to the relevant day. If there's no *REVERSED* reminder in the center of the Grimoire, place it there. If it is there, remove it.",
+  "reminders": [
+    "Reversed",
+    "Day 1",
+    "Day 2",
+    "Day 3",
+    "Day 4"
+  ],
+  "setup": false,
+  "ability": "Each night*, Townsfolk info is reversed from now on. It might start reversed. After day 4, evil wins.",
+  "flavor": "Your. Move."
+ },
+ {
+  "id": "somnata_sooth",
+  "name": "Somnata",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/somnata_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/somnata_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 41.2,
+  "otherNightReminder": "The Somnata chooses 2 players. :reminder: :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose 2 players: they die. If 3 or more players died last night, you don't wake tonight.",
+  "flavor": "The music! Listen to their screams. No melody is more serene than this."
+ },
+ {
+  "id": "vidarr_sooth",
+  "name": "Vidarr",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/vidarr_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/vidarr_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 51.9,
+  "otherNightReminder": "The Vidarr chooses a player. They choose another for each Minion marked with *VENGEANCE*. Remove those tokens.",
+  "reminders": [
+    "Dead",
+    "Vengeance",
+    "Vengeance",
+    "Vengeance"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they die. For each Minion nominated by a good player today, choose 1 more.",
+  "flavor": "You dare take aim at those brave enough to see what's coming? You will regret besmirching the names of your superiors."
+ },
+ {
+  "id": "sidewinder_sooth",
+  "name": "Sidewinder",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/sidewinder_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/sidewinder_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 49.55,
+  "otherNightReminder": "The Sidewinder chooses a player.",
+  "reminders": [
+    "Dead",
+    "Reversed"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. Townsfolk info is reversed each time 1 is executed. [-1 Outsider].",
+  "flavor": "What'sss a matter, dear? Cat'sss got your tongue?"
+ },
+ {
+  "id": "syffond_sooth",
+  "name": "Syffond",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/syffond_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/syffond_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 41.1,
+  "otherNightReminder": "The Syffond chooses a player. If they may choose again, prompt the Syffond to choose again. Mark the relevant evil player *DRAINED*.",
+  "reminders": [
+    "Dead",
+    "Dead",
+    "Dead",
+    "Drained",
+    "Drained",
+    "Drained",
+    "Drained"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they die & for each of your new alive neighbors that are evil, choose again.",
+  "flavor": "I've always heard it said, 'Keep your friends close, and your enemies closer.' Where do you think I should keep my thralls?"
+ },
+ {
+  "id": "ectovo_sooth",
+  "name": "Ectovo",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/ectovo_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/ectovo_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 49.2,
+  "otherNightReminder": "The Ectovo chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Lives"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. If an Outsider didn't vote on your execution, you live. [-1 to +1 Outsider]",
+  "flavor": "Legends speak of a terrible spirit that may only be cast out by outcasts. Those old occultists always loved their wordplay."
+ },
+ {
+  "id": "acrimortem_sooth",
+  "name": "Acrimortem",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/acrimortem_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/acrimortem_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 43.1,
+  "otherNightReminder": "The Acrimortem chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Poisoned",
+    "Poisoned"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. The Townsfolk neighbors of the most recent executee are poisoned. [-1 Outsider]",
+  "flavor": "Fetid bodies pile in this wretched town. Maggots writhe in pain as your torches light great bonfires. Do you hear their screams?"
+ },
+ {
+  "id": "kurs_haal_sooth",
+  "name": "Kurs-Haal",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/kurs_haal_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/kurs_haal_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 48.1,
+  "otherNightReminder": "The Kurs-Haal may point to a player. That player dies. Wake all players together, allow them to choose by pointing at who they want. Players who choose a player who died earlier tonight die.",
+  "reminders": [
+    "Dead",
+    "Bad Bet",
+    "Bad Bet",
+    "Bad Bet"
+  ],
+  "setup": false,
+  "ability": "Each night*, you may choose a player: they die & all players guess another player who’s still alive - wrong players die.",
+  "flavor": "The House always wins."
+ },
+ {
+  "id": "mephiticus_sooth",
+  "name": "Mephiticus",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/mephiticus_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/mephiticus_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 43.2,
+  "otherNightReminder": "The Mephiticus chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Poisoned",
+    "Poisoned",
+    "Poisoned"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. Townsfolk nominated by Townsfolk are poisoned until tomorrow dusk. [-1 Outsider]",
+  "flavor": "Do not quell the fires of fear deep within you. Let its poison seep through your rationality until all deviance is rectified."
+ },
+ {
+  "id": "frak_tuul_sooth",
+  "name": "Frak-Tuul",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/frak-tuul_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/frak-tuul_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 45.2,
+  "otherNightReminder": "The Frak-Tuul chooses a player. :reminder: :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die & players with their character die too. [Townsfolk characters might be duplicated]",
+  "special": [
+      {
+        "type": "selection",
+        "name": "good-duplicate"
+      }
+  ],
+  "flavor": "And so I told him my name was Benoit B. Mandelbrot. He asked me what the B stood for and of course I replied that it meant Benoit B. Mandelbrot. So he asked me what the B stood for and I said it meant Benoit B. Mandelbrot. So he asked me..."
+ },
+ {
+  "id": "antaph_sooth",
+  "name": "Antaph",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/antaph_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/antaph_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 44.1,
+  "otherNightReminder": "The Antaph chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Has Ability",
+    "Has Ability",
+    "Has Ability"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. Each time a Townsfolk is executed, gain a Demon ability (without kills). [-1 Outsider]",
+  "flavor": "With each futile step you take, stumbling in the dark, my luminance only grows brighter."
+ },
+ {
+  "id": "vilgrasp_sooth",
+  "name": "Vilgrasp",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/vilgrasp_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/vilgrasp_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 42.1,
+  "otherNightReminder": "The Vilgrasp chooses a player. If they killed an Outsider (once only): replace the Vilgrasp's token with an out-of-play Minion's token. Mark them with the *IS THE VILGRASP* reminder.",
+  "reminders": [
+    "Dead",
+    "Is The Vilgrasp"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. The 1st time this kills an Outsider, you gain an out-of-play Minion ability. [+1 Outsider]",
+  "flavor": "They will pay for everything they've done to you. Your sacrifice will not be in vain, my friend."
+ },
+ {
+  "id": "pyromaniac_sooth",
+  "name": "Pyromaniac",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/pyromaniac_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/pyromaniac_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 48.3,
+  "otherNightReminder": "The Pyromaniac chooses 2 players. For each who live, mark them with a *SLEEP TOMORROW* reminder.",
+  "reminders": [
+    "Dead",
+    "Dead",
+    "Sleep Tomorrow",
+    "Sleep Tomorrow"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose 2 players: if they don't wake tonight due to their ability, they die, & if they live, they don't wake tomorrow.",
+  "flavor": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!"
+ },
+ {
+  "id": "khornn_sooth",
+  "name": "Khornn",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/khornn_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/khornn_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 46.2,
+  "otherNightReminder": "The Khornn chooses a player. :reminder: If the Khornn is marked *RISE TONIGHT* remove their shroud & the reminder token.",
+  "reminders": [
+    "Dead",
+    "Rise Tonight"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they die. If you die & 4 or more live, play for 1 more day & if a good player is executed, you rise tonight.",
+  "flavor": "BLOOD! MORE BLOOD!"
+ },
+ {
+  "id": "loxodaunt_sooth",
+  "name": "Loxodaunt",
+  "edition": "soothsymphony",
+  "image": [
+   "https://github.com/user-attachments/assets/29a8b847-949b-4b5e-9d79-28a711d87046"
+  ],
+  "team": "demon",
+  "otherNight": 42.2,
+  "otherNightReminder": "The Loxodaunt chooses a player. If at any point no Townsfolk live, wake all players up & declare the evil team has won.",
+  "reminders": [
+    "Dead",
+    "Trampled",
+    "Trampled",
+    "Trampled",
+    "Trampled"
+  ],
+  "setup": true,
+  "ability": "Each night*, choose a player: they die. If no Townsfolk live, evil wins. If a living Outsider guesses you (once), good wins. [+1 Outsider]",
+  "flavor": "Why would the titanic elephant be afraid of the lowly mouse? There is no more reason than for a human to fear an ant. And no difference in how you scurry before me."
+ },
+ {
+  "id": "lich_sooth",
+  "name": "Lich",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/lich_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/lich_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 40.76,
+  "otherNightReminder": "The Lich chooses a player. :reminder: If the Lich is due to rise, mark them *REFORM TONIGHT*, remove their shroud, & mark a living Minion with the *MINION DIES* reminder.",
+  "reminders": [
+    "Dead",
+    "Reform Tonight",
+    "Minion Dies"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they die. No team can win if Minions live, even if dead. If you die, reform 1-2 nights later & a Minion dies.",
+  "flavor": "Thank you, my servant. Your body will serve a greater purpose now."
+ },
+ {
+  "id": "graygu_sooth",
+  "name": "Graygu",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/graygu_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/graygu_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 49.1,
+  "otherNightReminder": "The Graygu chooses a player. Then, write down on a piece of paper or a phone the Graygu's new ability. Show it to them.",
+  "reminders": [
+    "Dead",
+    "?",
+    "??",
+    "???"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player: they die & your ability changes based on theirs (you know it). Each day, the 1st to visit the Storyteller learns it (once each).",
+  "flavor": "SENDING PROTEIN ENSG00000132386 TO SITE LOCATION 62p13.1. RECONSTRUCTION AT SITE TO BEGIN IMMEDIATELY."
+ },
+ {
+  "id": "kraggor_293_sooth",
+  "name": "Kraggor-293",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/kraggor_293_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/kraggor_293_good.png"
+  ],
+  "team": "demon",
+  "firstNight": 4.293,
+  "firstNightReminder": "The Kraggor-293 chooses a player. Mark them with the *START* reminder.",
+  "otherNight": 40.293,
+  "otherNightReminder": "Mark the 2 living good players anti-clockwise from the player marked *START* with the *DEAD* reminder tokens.",
+  "reminders": [
+    "Start",
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "On your 1st night, choose a player. Each night*, their 2 anti-clockwise living good neighbors die.",
+  "flavor": "Churn. Burn. Smash. Spurn. Turn. Crash. CHURN. BURN. SMASH."
+ },
+ {
+  "id": "drasi_yor_sooth",
+  "name": "Drási Yor",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/drasi_yor_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/drasi_yor_good.png"
+  ],
+  "team": "demon",
+  "firstNight": 26.12,
+  "firstNightReminder": "The Drási Yor chooses 3 characters. Mark them each with a *POISONED* reminder.",
+  "otherNight": 49.12,
+  "otherNightReminder": "The Drási Yor chooses a player. :reminder:",
+  "reminders": [
+    "Dead",
+    "Poisoned",
+    "Poisoned",
+    "Poisoned"
+  ],
+  "setup": false,
+  "ability": "On your 1st night, choose 3 characters: players who are mad they're them might be poisoned. Each night*, choose a player: they die.",
+  "flavor": "Hold your tongue, lest it be torn from your mouth."
+ },
+ {
+  "id": "omnoculus_sooth",
+  "name": "Omnoculus",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/omnoculus_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/omnoculus_good.png"
+  ],
+  "team": "demon",
+  "firstNight": 7.1,
+  "firstNightReminder": "Show a finger signal.",
+  "otherNight": 7.2,
+  "otherNightReminder": "Change the Omnoculus reminder token to the relevant day. If the number of Outsiders has changed, show a finger signal.",
+  "reminders": [
+    "Guess Used",
+    "Day 1",
+    "Day 2",
+    "Day 3",
+    "Day 4"
+  ],
+  "setup": true,
+  "ability": "You know how many Outsiders there are & may publicly guess (once) who they are: if correct or after Day 4, evil wins. [+0 to +2 Outsiders]",
+  "flavor": "I SEE you!"
+ },
+ {
+  "id": "malabane_sooth",
+  "name": "Malabane",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/malabane_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/malabane_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 5.89,
+  "otherNightReminder": "Change the Malabane reminder token to the relevant day.",
+  "reminders": [
+    "Day 1",
+    "Day 2",
+    "Day 3",
+    "Day 4"
+  ],
+  "setup": true,
+  "ability": "When you die, all Outsiders must choose a player (not you): if any are good, evil wins. After Day 4 evil wins. [+0 or +1 Outsider]",
+  "flavor": "There is no antidote."
+ },
+ {
+  "id": "unity_sooth",
+  "name": "Unity",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/unity_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/unity_good.png"
+  ],
+  "team": "demon",
+  "reminders": [
+    "Day 1",
+    "Day 2",
+    "Day 3",
+    "Day 4"
+  ],
+  "setup": false,
+  "ability": "If more than 1 of each character type is executed, evil wins. After day 4, evil wins.",
+  "flavor": "Now, now, children, I hate all of you equally."
+ },
+ {
+  "id": "belphegor_sooth",
+  "name": "Belphegor",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/belphegor_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/belphegor_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 40.2,
+  "otherNightReminder": "If a player died today, wake the Belphegor. They choose 2 players. Otherwise, a player might die. :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "ability": "If a player died today, tonight choose 2 players: they die. Otherwise, a player might die each night*.",
+  "flavor": "What? Oh. Don't bother."
+ },
+ {
+  "id": "society_sooth",
+  "name": "Society",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/society_evil_IMZE.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/society_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 7.76,
+  "otherNightReminder": "Change the Society reminder token to the relevant day.",
+  "reminders": [
+    "Day 1",
+    "Day 2",
+    "Day 3",
+    "Day 4"
+  ],
+  "setup": true,
+  "ability": "If 3 players publicly agree, good wins if they're the same character type. If not, or day 4 ends, evil wins. [No Demon, +1 Minion]",
+  "flavor": "Your differences are only as important as they provide value to the State. Barring that, you'd be discarded like the rest."
+ },
+ {
+  "id": "necrodeux_sooth",
+  "name": "Necrodeux",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/necrodeux_evil.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Demons/necrodeux_good.png"
+  ],
+  "team": "demon",
+  "otherNight": 48.2,
+  "otherNightReminder": "For each dead player marked with a *BURIAL TONIGHT* reminder, the Necrodeux chooses a player. Place a shroud on them.",
+  "reminders": [
+    "Burial Tonight",
+    "Burial Tonight",
+    "Burial Tonight",
+    "Burial Tonight"
+  ],
+  "setup": false,
+  "ability": "Each time a player dies (not from this ability), you may, tonight, choose a player: they die. If no one died today, evil wins.",
+  "flavor": "One. Two. / Your world askew. / Three. Four. / Even the score."
+ },
+ {
+  "id": "architect_sooth",
+  "name": "Architect",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Travellers/architect_trav.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Travellers/architect_good.png",
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Travellers/architect_evil.png"
+  ],
+  "team": "traveller",
+  "firstNight": 8.1,
+  "firstNightReminder": "The Architect chooses a character on the sheet for each character type. For each character not-in-play, wake a player who is not one of the selected characters & show them the *YOU ARE* info token & the relevant character token.",
+  "reminders": [
+  ],
+  "setup": false,
+  "ability": "On your 1st night, choose a character of each type (not a Traveller): for each 1 out-of-play, a player becomes that character.",
+  "flavor": "I reserve my time for people who can think. About science. And literature, and... architecture and art. You find me cruel, selfish and unfeeling? I am. I work without caring what happens to either of us. So go back to the cluuuub, bare it all, and stalk the kind of people that you enjoy."
+ },
+ {
+  "id": "transfuser_sooth",
+  "name": "Transfuser",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Fabled%26Lorics/transfuser_loric.png"
+  ],
+  "team": "loric",
+  "otherNight": 1.33,
+  "otherNightReminder": "One at a time: Wake each player marked *SURGERY TONIGHT*. Show the *THIS CHARACTER SELECTED YOU* & Transfuser tokens, then the *YOU ARE* info token & the relevant new character token. Give a thumb signal to indicate their alignment.",
+  "reminders": [
+    "Surgery Tonight",
+    "Surgery Tonight"
+  ],
+  "setup": false,
+  "ability": "Each day, 2 alive players may choose to visit you. Tonight, they swap characters & alignments.",
+  "flavor": "Be very still, this process is more complex than your delicate, oh so breakable, minds could comprehend."
+ },
+ {
+  "id": "evolutionist_sooth",
+  "name": "Evolutionist",
+  "edition": "soothsymphony",
+  "image": [
+   "https://soothslayer42.github.io/BloodontheClocktowerHomebrew/Images/Fabled%26Lorics/evolutionist%20by%20Tir.png"
+  ],
+  "team": "loric",
+  "reminders": [
+    "Evolved",
+    "Evolved",
+    "Evolved",
+    "Evolved",
+    "Evolved",
+    "Evolved"
+  ],
+  "setup": false,
+  "ability": "Every player may visit the Storyteller to learn 1 condition. If they meet this condition, they may visit again to upgrade their ability & learn it.",
+  "flavor": "It is often through esoteric means that Nature is able to succeed & flourish in ways never thought possible. Her weirdest creations, the most beautiful, her most divine."
+ }
+] 
