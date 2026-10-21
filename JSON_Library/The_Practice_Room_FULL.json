@@ -1,5 +1,10 @@
 [
   {
+    "id": "_meta",
+    "name": "The Practice Room",
+    "author": "Soothslayer",
+  },
+  {
   "id": "coach_sooth",
   "name": "Coach",
   "edition": "soothsymphony",
